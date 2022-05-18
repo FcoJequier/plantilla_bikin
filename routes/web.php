@@ -17,4 +17,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get("/home", [App\Http\Controllers\PruebasController::class, "home",])->name("home");
+
 
