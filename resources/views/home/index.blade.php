@@ -41,16 +41,21 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="{{route('home')}}">Bikin</a></h1>
+      <h6 class="logo"><a href="{{route('home')}}" class="navbar-brand"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h6>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-        <nav id="navegador" class="navbar">
+        <nav id="navegador" class="navbar center">
             <ul class="nav__lista">
                 <li class="nav__lista--item change-color"></li>
                 <a class="item__link">Perfil</a>
 
                 <li class="nav__lista--item change-color"><a class="item__link" href="">Servicios</a></li>
+
+
+                <li class="nav__lista--item change-color"><a class="item__link" href="">Horarios</a></li>
+            </ul>
+            <ul class="nav__lista">
 
                 <li class="nav__lista--item dropdown">
                     <a class="item__link btn-access change-color change-border2" href="#">Ingresar</a>
@@ -59,8 +64,6 @@
                         <li style="border: none;"><a href="" onclick="" class="change-color">Paciente</a></li>
                     </ul>
                 </li>
-                <li class="nav__lista--item change-color"><a class="item__link" href="">Horarios</a></li>
-                <li class="nav__lista--item change-color"><a class="item__link" href="">Algocualquiera</a></li>
             </ul>
 
 
@@ -71,9 +74,8 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-      <img src="assets/img/terapia-psicologo.jpg" class="hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">
-    <div class="container d-flex flex-column align-items-center justify-content-center" data-aos="fade-up">
+  <section id="div-principal" class="d-flex align-items-center">
+    <div class="container d-flex flex-column align-items-end justify-content-center" data-aos="fade-up">
       <h1>Psicólogos Temuco</h1>
       <h2>We are team of talented designers making websites with Bootstrap</h2>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
