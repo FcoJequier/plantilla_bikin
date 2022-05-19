@@ -52,6 +52,9 @@
 
                 <li class="nav__lista--item change-color"><a class="item__link" href="">Servicios</a></li>
 
+
+                <li class="nav__lista--item change-color"><a class="item__link" href="">Horarios</a></li>
+                <li class="nav__lista--item change-color"><a class="item__link" href="">Algocualquiera</a></li>
                 <li class="nav__lista--item dropdown">
                     <a class="item__link btn-access change-color change-border2" href="#">Ingresar</a>
                     <ul id="btn-list-access" style="border: none;" class="dropdown-content change-color change-border2">
@@ -59,8 +62,6 @@
                         <li style="border: none;"><a href="" onclick="" class="change-color">Paciente</a></li>
                     </ul>
                 </li>
-                <li class="nav__lista--item change-color"><a class="item__link" href="">Horarios</a></li>
-                <li class="nav__lista--item change-color"><a class="item__link" href="">Algocualquiera</a></li>
             </ul>
 
 
@@ -446,27 +447,27 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials color-testimonio">
+    <section id="testimonials" class="testimonials color-testimonio ">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 style="color: #e7f1ff">Testimonios</h2>
+
         </div>
 
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+        <div class="testimonials-slider swiper " data-aos="fade-up" data-aos-delay="100" >
           <div class="swiper-wrapper">
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
+            <div class="swiper-slide ">
+              <div class="testimonial-item ">
                 <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <i class="bx bxs-quote-alt-left quote-icon-left "></i>
+                    "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
+                  <i class="bx bxs-quote-alt-right quote-icon-right "></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h4>Testimonio</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -474,12 +475,12 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    "Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras"
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
                 <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <h4>Testimonio</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -487,7 +488,8 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    "Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía"
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -500,27 +502,28 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Matt Brandon</h3>
                 <h4>Freelancer</h4>
               </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-              </div>
             </div><!-- End testimonial item -->
+              <div class="swiper-slide">
+                  <div class="testimonial-item">
+                      <p>
+                          <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                          Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                          <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                      </p>
+                      <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                      <h3>John Larson</h3>
+                      <h4>Entrepreneur</h4>
+                  </div>
+              </div><!-- End testimonial item -->
+
 
           </div>
           <div class="swiper-pagination"></div>
