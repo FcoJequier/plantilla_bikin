@@ -140,7 +140,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #2d405f;
@@ -392,7 +392,8 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
   }
   #hero .hero-img {
-    max-width: 90%;
+    max-width: 100%;
+      background-size: cover;
   }
 }
 @media (max-height: 768px) {
@@ -411,6 +412,10 @@ section {
 
 .section-bg {
   background-color: #f6f8fb;
+}
+
+.color-testimonio {
+    background-color: #484AF0;
 }
 
 .section-title {

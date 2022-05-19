@@ -72,12 +72,12 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
-
+      <img src="assets/img/terapia-psicologo.jpg" class="hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">
     <div class="container d-flex flex-column align-items-center justify-content-center" data-aos="fade-up">
-      <h1>Build Better Websites With Bikin</h1>
+      <h1>Psicólogos Temuco</h1>
       <h2>We are team of talented designers making websites with Bootstrap</h2>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
-      <img src="assets/img/hero-img.png" class="img-fluid hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">
+
     </div>
 
   </section><!-- End Hero -->
@@ -446,7 +446,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
+    <section id="testimonials" class="testimonials color-testimonio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
