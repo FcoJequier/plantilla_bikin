@@ -48,7 +48,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-            <li><a class="nav-link scrollto active" href="{{route('inner')}}">Inner</a></li>
+            <li><a class="nav-link scrollto active" href="{{route('inner')}}">Probando</a></li>
             <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="{{route('portafolio')}}">Portfolio</a></li>
