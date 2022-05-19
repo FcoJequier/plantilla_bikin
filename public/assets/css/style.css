@@ -449,7 +449,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #466393;
+  background: #3B83AE;
   background-size: cover;
   padding: 60px 0;
   position: relative;
@@ -512,15 +512,20 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f6f7ff;
+  background: #3C4BB7;
   padding: 15px 0;
   text-align: center;
 }
+.clients h2{
+    color: white;
+}
 .clients img {
-  max-width: 45%;
+  max-width: 60%;
   transition: all 0.4s ease-in-out;
   display: inline-block;
   padding: 15px 0;
+
+
 }
 .clients img:hover {
   transform: scale(1.15);
@@ -601,7 +606,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services {
-  background: #3C4BB7;
+  background: #3B83AE;
   padding-bottom: 80px;
 }
 .services .section-title h2, .services .section-title p {
