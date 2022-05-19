@@ -1,4 +1,5 @@
-/**
+
+    /**
 * Template Name: Bikin - v4.7.0
 * Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
 * Author: BootstrapMade.com
@@ -392,7 +393,8 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
   }
   #hero .hero-img {
-    max-width: 90%;
+    max-width: 100%;
+      background-size: cover;
   }
 }
 @media (max-height: 768px) {
@@ -411,6 +413,10 @@ section {
 
 .section-bg {
   background-color: #f6f8fb;
+}
+
+.color-testimonio {
+    background-color:    #3B83AE ;
 }
 
 .section-title {
