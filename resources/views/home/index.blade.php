@@ -434,7 +434,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2 style="color: white">Testimonios</h2>
+          <h2 style="color: #e7f1ff">Testimonios</h2>
 
         </div>
 
@@ -445,20 +445,20 @@
               <div class="testimonial-item ">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left "></i>
-                    Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré.
+                    "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
                   <i class="bx bxs-quote-alt-right quote-icon-right "></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img card-img-bottom" alt="">
+                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
                 <h4>Testimonio</h4>
               </div>
-            </div>
+            </div><!-- End testimonial item -->
 
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras
+                    "Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras"
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -471,11 +471,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía
+                    "Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía"
 
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img card-img-bottom" alt="">
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
                 <h3>Jena Karlis</h3>
                 <h4>Store Owner</h4>
               </div>
@@ -485,7 +485,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré.
+                    "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
