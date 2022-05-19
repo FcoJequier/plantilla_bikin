@@ -48,9 +48,10 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+            <li><a class="nav-link scrollto active" href="{{route('inner')}}">Inner</a></li>
+            <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto " href="{{route('portafolio')}}">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
@@ -96,7 +97,7 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
-
+        <h2>Quiénes Somos </h2>
         <div class="row no-gutters">
           <div class="content col-xl-5 d-flex align-items-stretch" data-aos="fade-right">
             <div class="content">
@@ -178,7 +179,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Features</h2>
+          <h2>Caracteristicas del servicio</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
@@ -255,48 +256,48 @@
     </section><!-- End Features Section -->
 
     <!-- ======= Steps Section ======= -->
-    <section id="steps" class="steps">
-      <div class="container">
+{{--    <section id="steps" class="steps">--}}
+{{--      <div class="container">--}}
 
-        <div class="row no-gutters" data-aos="fade-up">
+{{--        <div class="row no-gutters" data-aos="fade-up">--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">
-            <span>01</span>
-            <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">--}}
+{{--            <span>01</span>--}}
+{{--            <h4>Lorem Ipsum</h4>--}}
+{{--            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>--}}
+{{--          </div>--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">
-            <span>02</span>
-            <h4>Repellat Nihil</h4>
-            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">--}}
+{{--            <span>02</span>--}}
+{{--            <h4>Repellat Nihil</h4>--}}
+{{--            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>--}}
+{{--          </div>--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="300">
-            <span>03</span>
-            <h4> Ad ad velit qui</h4>
-            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="300">--}}
+{{--            <span>03</span>--}}
+{{--            <h4> Ad ad velit qui</h4>--}}
+{{--            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>--}}
+{{--          </div>--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">
-            <span>04</span>
-            <h4>Repellendus molestiae</h4>
-            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="100">--}}
+{{--            <span>04</span>--}}
+{{--            <h4>Repellendus molestiae</h4>--}}
+{{--            <p>Inventore quo sint a sint rerum. Distinctio blanditiis deserunt quod soluta quod nam mider lando casa</p>--}}
+{{--          </div>--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">
-            <span>05</span>
-            <h4>Sapiente Magnam</h4>
-            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="200">--}}
+{{--            <span>05</span>--}}
+{{--            <h4>Sapiente Magnam</h4>--}}
+{{--            <p>Vitae dolorem in deleniti ipsum omnis tempore voluptatem. Qui possimus est repellendus est quibusdam</p>--}}
+{{--          </div>--}}
 
-          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="300">
-            <span>06</span>
-            <h4>Facilis Impedit</h4>
-            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>
-          </div>
+{{--          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-up" data-aos-delay="300">--}}
+{{--            <span>06</span>--}}
+{{--            <h4>Facilis Impedit</h4>--}}
+{{--            <p>Quis eum numquam veniam ea voluptatibus voluptas. Excepturi aut nostrum repudiandae voluptatibus corporis sequi</p>--}}
+{{--          </div>--}}
 
-        </div>
+{{--        </div>--}}
 
       </div>
     </section><!-- End Steps Section -->
@@ -306,42 +307,42 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Services</h2>
+          <h2>Servicios</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <h4 class="title"><a href="">Atención Presencial</a></h4>
               <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <h4 class="title"><a href="">Atención Online</a></h4>
               <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <h4 class="title"><a href="">Atención Domiciliario</a></h4>
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-layer"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-            </div>
-          </div>
+{{--          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="400">--}}
+{{--            <div class="icon-box">--}}
+{{--              <div class="icon"><i class="bx bx-layer"></i></div>--}}
+{{--              <h4 class="title"><a href="">Nemo Enim</a></h4>--}}
+{{--              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>--}}
+{{--            </div>--}}
+{{--          </div>--}}
 
         </div>
 

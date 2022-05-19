@@ -17,8 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/home', function () {
-    return view('home.inner-page');
-});
+Route::get("/home", [App\Http\Controllers\PruebasController::class, "home",])->name("home");
 
+Route::get("/home.portfolio", [App\Http\Controllers\PruebasController::class, "portafolio",])->name("portafolio");
+
+Route::get("/home.inner-page", [App\Http\Controllers\PruebasController::class, "inner",])->name("inner");
 

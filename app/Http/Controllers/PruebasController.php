@@ -10,4 +10,14 @@ class PruebasController extends Controller
     {
         return view('home.index');
     }
+
+    public function portafolio()
+    {
+        return view('home.portfolio-details');
+    }
+
+    public function inner()
+    {
+        return view('home.inner-page');
+    }
 }
