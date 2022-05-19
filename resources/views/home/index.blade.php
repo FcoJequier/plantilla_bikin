@@ -41,40 +41,31 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="{{route('home')}}">Bikin</a></h1>
+      <h1 class="logo"><a href="{{route('home')}}">DevLef</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
+      <nav id="navegador" class="navbar">
+          <ul class="nav__lista">
+            <li class="nav__lista--item change-color"></li>
+              <a class="item__link">Perfil</a>
+
+              <li class="nav__lista--item change-color"><a class="item__link" href="">Servicios</a></li>
+
+              <li class="nav__lista--item dropdown">
+                  <a class="item__link btn-access change-color change-border2" href="#">Ingresar</a>
+                  <ul id="btn-list-access" style="border: none;" class="dropdown-content change-color change-border2">
+                      <li style="border: none;"><a href="" onclick="" class="change-color">Psicologo</a></li>
+                      <li style="border: none;"><a href="" onclick="" class="change-color">Paciente</a></li>
+                  </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+              <li class="nav__lista--item change-color"><a class="item__link" href="">Horarios</a></li>
+              <li class="nav__lista--item change-color"><a class="item__link" href="">Algocualquiera</a></li>
+          </ul>
+
+
+
+      </nav>
 
     </div>
   </header><!-- End Header -->
@@ -607,7 +598,7 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-youtube"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
