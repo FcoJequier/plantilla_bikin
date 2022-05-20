@@ -213,8 +213,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Servicios</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+
+            <h2 style="color: white">Testimonios</h2>
         </div>
 
         <div class="row">
@@ -234,13 +234,39 @@
                   <i class="bx bxs-quote-alt-left quote-icon-left "></i>
                     "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
                   <i class="bx bxs-quote-alt-right quote-icon-right "></i>
+                 <div class="textoReponsive">
+                      <h3 >Jhon Cena</h3>
+                  </div>
+
                 </p>
 
-                <h3>Saul Goodman</h3>
-                <h4>Testimonio</h4>
-                  <div>
-                      <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+       <div class="imagenResponsive">
+
+           <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img  "  alt="">
+
+       </div>
+
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item border-color" >
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Sara Wilson</h3>
                   </div>
+                </p>
+
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
+
               </div>
             </div><!-- End testimonial item -->
 
@@ -248,29 +274,68 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    "Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras"
+                    Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Macarena Silva</h3>
+                  </div>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Testimonio</h4>
+
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
+
+
               </div>
             </div><!-- End testimonial item -->
 
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class='bx bxs-video'></i></div>
-              <h4 class="title"><a href="">Atención Online</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-            </div>
-          </div>
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Matt Brandom</h3>
+                  </div>
+                </p>
 
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class='bx bx-home'></i></div>
-              <h4 class="title"><a href="">Atención Domiciliaria</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-            </div>
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
+              </div>
+
+            </div><!-- End testimonial item -->
+              <div class="swiper-slide">
+                  <div class="testimonial-item">
+                      <p>
+                          <i class="bx bxs-quote-alt-left quote-icon-left" "></i>
+                          Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                          <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                      <div class="textoReponsive">
+                          <h3 >Jhon Larson</h3>
+                      </div>
+                      </p>
+
+                      <div class="imagenResponsive">
+
+                          <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+
+                      </div>
+
+
+
+                  </div>
+              </div><!-- End testimonial item -->
+
+
           </div>
 
         </div>
