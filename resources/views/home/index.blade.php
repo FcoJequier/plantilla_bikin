@@ -435,8 +435,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2 style="color: #e7f1ff">Testimonios</h2>
 
+            <h2 style="color: white">Testimonios</h2>
         </div>
 
         <div class="testimonials-slider swiper " data-aos="fade-up" data-aos-delay="100" >
@@ -448,10 +448,39 @@
                   <i class="bx bxs-quote-alt-left quote-icon-left "></i>
                     "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
                   <i class="bx bxs-quote-alt-right quote-icon-right "></i>
+                 <div class="textoReponsive">
+                      <h3 >Jhon Cena</h3>
+                  </div>
+
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Testimonio</h4>
+
+       <div class="imagenResponsive">
+
+           <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img  "  alt="">
+
+       </div>
+
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item border-color" >
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Sara Wilson</h3>
+                  </div>
+                </p>
+
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
+
               </div>
             </div><!-- End testimonial item -->
 
@@ -459,12 +488,22 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    "Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras"
+                    Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía
+
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Macarena Silva</h3>
+                  </div>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Testimonio</h4>
+
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
+
+
               </div>
             </div><!-- End testimonial item -->
 
@@ -472,39 +511,41 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    "Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía"
-
+                    Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  <div class="textoReponsive">
+                      <h3 >Matt Brandom</h3>
+                  </div>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-              </div>
-            </div><!-- End testimonial item -->
 
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
+                  <div class="imagenResponsive">
+
+                      <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+
+                  </div>
+
               </div>
 
             </div><!-- End testimonial item -->
               <div class="swiper-slide">
                   <div class="testimonial-item">
                       <p>
-                          <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                          <i class="bx bxs-quote-alt-left quote-icon-left" "></i>
                           Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                      <div class="textoReponsive">
+                          <h3 >Jhon Larson</h3>
+                      </div>
                       </p>
-                      <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                      <h3>John Larson</h3>
-                      <h4>Entrepreneur</h4>
+
+                      <div class="imagenResponsive">
+
+                          <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+
+                      </div>
+
+
+
                   </div>
               </div><!-- End testimonial item -->
 
