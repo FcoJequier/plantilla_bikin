@@ -831,6 +831,15 @@ hr {
     background-color: #484AF0;
 }
 
+.swiper-button-prev, .swiper-button-next {
+    color: #484AF0;
+}
+
+.portfolio-wrap > img {
+    min-height: 419px;
+    min-width: 419px;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/

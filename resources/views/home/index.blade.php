@@ -235,69 +235,15 @@
                           </div>
                       </div>
                       <!-- End psicologos item -->
+
                   </div>
+                  <!-- If we need navigation buttons -->
+                  <div class="swiper-button-prev"></div>
+                  <div class="swiper-button-next"></div>
           </div>
           </div>
       </section>
       <!-- End Psicologos Section -->
-
-{{--              <div class="row portfolio-container">--}}
-
-{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">--}}
-{{--                      <div class="portfolio-wrap">--}}
-{{--                          <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">--}}
-{{--                          <div class="portfolio-info">--}}
-{{--                              <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
-{{--                              <h3 class="text-white">Walter White</h3>--}}
-{{--                              <div class="glightbox-desc custom-desc1">--}}
-{{--                                  <h3>Walter White</h3>--}}
-{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                    <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                        <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                    </div>--}}
-{{--                              </div>--}}
-{{--                          </div>--}}
-{{--                      </div>--}}
-{{--                  </div>--}}
-
-{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-card">--}}
-{{--                      <div class="portfolio-wrap">--}}
-{{--                          <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">--}}
-{{--                          <div class="portfolio-info">--}}
-{{--                              <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
-{{--                              <h3 class="text-white">Sarah Jhonson</h3>--}}
-{{--                              <div class="glightbox-desc custom-desc2">--}}
-{{--                                  <h3>Sarah Jhonson</h3>--}}
-{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                  <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                      <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                  </div>--}}
-{{--                              </div>--}}
-{{--                          </div>--}}
-{{--                      </div>--}}
-{{--                  </div>--}}
-
-{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-card">--}}
-{{--                      <div class="portfolio-wrap">--}}
-{{--                          <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">--}}
-{{--                          <div class="portfolio-info">--}}
-{{--                              <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
-{{--                              <h3 class="text-white">William Anderson</h3>--}}
-{{--                              <div class="glightbox-desc custom-desc3">--}}
-{{--                                  <h3>William Anderson</h3>--}}
-{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                  <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                      <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                  </div>--}}
-{{--                              </div>--}}
-{{--                          </div>--}}
-{{--                      </div>--}}
-{{--                  </div>--}}
-
-{{--              </div>--}}
-
-{{--          </div>--}}
-{{--      </section><!-- End Portfolio Section -->--}}
 
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
