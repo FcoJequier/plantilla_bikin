@@ -540,7 +540,7 @@ hr {
     background-color: #3B83AE;
 }
 .clients h2{
-    color: #2d405f;
+    color: #ffffff;
 }
 .clients img {
   max-width: 60%;
@@ -717,7 +717,7 @@ hr {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(45, 64, 95, 0.6);
+  background: rgba(45, 64, 95, 0);
 }
 .portfolio .portfolio-wrap::before {
   content: "";
@@ -749,6 +749,12 @@ hr {
   align-items: flex-start;
   padding: 20px;
 }
+
+    .portfolio .portfolio-wrap .portfolio-info a{
+        opacity: 0;
+        height: 100%;
+        width: 100%;
+    }
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
   color: #fff;
@@ -784,6 +790,10 @@ hr {
 }
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
+}
+
+#btn-1 {
+    background-color: #484AF0;
 }
 
 /*--------------------------------------------------------------
