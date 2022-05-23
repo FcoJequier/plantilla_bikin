@@ -9,6 +9,10 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
+
+   <!-- Button -->
+   <a href="/contact" class="chat-button"></a>
+
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -111,102 +115,189 @@
         </div>
         </div>
       </div>
-    </section><!-- End About Section -->
+    </section
+    ><!-- End About Section -->
 
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-      <div class="container" data-aos="zoom-in">
-          <div class="section-title">
-              <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
-          </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-            <img src="assets/img/isapres/atencion4.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion5.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion6.png" class="img-fluid" alt="">
-          </div>
-
-        </div>
-        <hr>
-      </div>
-    </section><!-- End Clients Section -->
-
-      <!-- ======= Portfolio Section ======= -->
+      <!-- ======= Psicologos Section ======= -->
       <section id="portfolio" class="portfolio">
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
-                  <h2>Portfolio</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <h2>Nuestros Psicólogos</h2>
+                  <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
+                      Contamos con especialistas en todas las áreas</p>
               </div>
 
-              <div class="row">
-                  <div class="col-lg-12 d-flex justify-content-center">
-                      <ul id="portfolio-flters">
-                          <li data-filter="*" class="filter-active">All</li>
-                          <li data-filter=".filter-app">App</li>
-                          <li data-filter=".filter-card">Card</li>
-                          <li data-filter=".filter-web">Web</li>
-                      </ul>
-                  </div>
-              </div>
+              <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                  <div class="swiper-wrapper">
 
-              <div class="row portfolio-container">
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                                  <div class="portfolio-wrap">
+                                      <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                                      <div class="portfolio-info">
+                                          <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                          <h3 class="text-white">Walter White</h3>
+                                          <div class="glightbox-desc custom-desc1">
+                                              <h3>Walter White</h3>
+                                              <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                              <div class="d-flex align-items-end justify-content-end">
+                                                  <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                      </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>App 1</h4>
-                              <p>App</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc2">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
-                  </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>Web 3</h4>
-                              <p>Web</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc3">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
-                  </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>App 2</h4>
-                              <p>App</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-4.jpg" data-glightbox="description: .custom-desc4" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc4">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
+                      <!-- End psicologos item -->
+
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/testimonials/testimonials-2.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Sarah Jhonson</h3>
+                                      <div class="glightbox-desc custom-desc5">
+                                          <h3>Sarah Jhonson</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <!-- End psicologos item -->
                   </div>
-
-              </div>
-
           </div>
-      </section><!-- End Portfolio Section -->
+          </div>
+      </section>
+      <!-- End Psicologos Section -->
+
+{{--              <div class="row portfolio-container">--}}
+
+{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">--}}
+{{--                      <div class="portfolio-wrap">--}}
+{{--                          <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">--}}
+{{--                          <div class="portfolio-info">--}}
+{{--                              <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
+{{--                              <h3 class="text-white">Walter White</h3>--}}
+{{--                              <div class="glightbox-desc custom-desc1">--}}
+{{--                                  <h3>Walter White</h3>--}}
+{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                    <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                        <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                    </div>--}}
+{{--                              </div>--}}
+{{--                          </div>--}}
+{{--                      </div>--}}
+{{--                  </div>--}}
+
+{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-card">--}}
+{{--                      <div class="portfolio-wrap">--}}
+{{--                          <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">--}}
+{{--                          <div class="portfolio-info">--}}
+{{--                              <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
+{{--                              <h3 class="text-white">Sarah Jhonson</h3>--}}
+{{--                              <div class="glightbox-desc custom-desc2">--}}
+{{--                                  <h3>Sarah Jhonson</h3>--}}
+{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                  <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                      <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                  </div>--}}
+{{--                              </div>--}}
+{{--                          </div>--}}
+{{--                      </div>--}}
+{{--                  </div>--}}
+
+{{--                  <div class="col-lg-4 col-md-6 portfolio-item filter-card">--}}
+{{--                      <div class="portfolio-wrap">--}}
+{{--                          <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">--}}
+{{--                          <div class="portfolio-info">--}}
+{{--                              <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
+{{--                              <h3 class="text-white">William Anderson</h3>--}}
+{{--                              <div class="glightbox-desc custom-desc3">--}}
+{{--                                  <h3>William Anderson</h3>--}}
+{{--                                  <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                  <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                      <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                  </div>--}}
+{{--                              </div>--}}
+{{--                          </div>--}}
+{{--                      </div>--}}
+{{--                  </div>--}}
+
+{{--              </div>--}}
+
+{{--          </div>--}}
+{{--      </section><!-- End Portfolio Section -->--}}
 
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
@@ -338,9 +429,7 @@
                 </p>
 
                   <div class="imagenResponsive">
-
                       <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-
                   </div>
 
               </div>
@@ -349,7 +438,7 @@
               <div class="swiper-slide">
                   <div class="testimonial-item">
                       <p>
-                          <i class="bx bxs-quote-alt-left quote-icon-left" "></i>
+                          <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                           Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                       <div class="textoReponsive">
@@ -374,6 +463,7 @@
         </div>
 
       </div>
+      </div>
     </section><!-- End Services Section -->
 
       <!-- ======= Clients Section ======= -->
@@ -386,15 +476,15 @@
               <div class="row">
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/particulares.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/fonasa.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/isapres.png" class="img-fluid" alt="">
                   </div>
 
               </div>
