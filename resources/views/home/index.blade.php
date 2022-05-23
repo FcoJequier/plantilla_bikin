@@ -65,7 +65,7 @@
 </header><!-- End Header -->
 <section id="hero" class="d-flex align-items-center">
   <!-- ======= Hero Section ======= -->
-  <div id="div-imagen-principal" class="card d-flex align-items-center justify-content-center" data-aos="fade-up">
+  <div id="div-imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-up">
       <img src="assets/img/terapia-psicologo.jpg" class="card-img hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">
       <div id="div-titulos-imagen" class="card-img-overlay">
           <h1 class="mx-auto">Psicólogos Temuco</h1>
@@ -112,6 +112,32 @@
         </div>
       </div>
     </section><!-- End About Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="zoom-in">
+          <div class="section-title">
+              <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
+          </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
+            <img src="assets/img/isapres/atencion4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/isapres/atencion5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/isapres/atencion6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+        <hr>
+      </div>
+    </section><!-- End Clients Section -->
 
       <!-- ======= Portfolio Section ======= -->
       <section id="portfolio" class="portfolio">
