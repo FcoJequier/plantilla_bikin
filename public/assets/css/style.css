@@ -427,7 +427,7 @@ section {
 }
 
 .color-testimonio {
-    background-color:    #3B83AE ;
+    background-color:    #ffffff ;
 }
 
 .section-title {
@@ -532,7 +532,7 @@ section {
 # Profesional Section
 --------------------------------------------------------------*/
 .clients {
-  background: white;
+  background: #3B83AE;
   padding: 15px 0;
   text-align: center;
 }

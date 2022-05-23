@@ -65,7 +65,7 @@
 </header><!-- End Header -->
 <section id="hero" class="d-flex align-items-center">
   <!-- ======= Hero Section ======= -->
-  <div id="div-imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-up">
+  <div id="div-imagen-principal" class="card d-flex align-items-center justify-content-center" data-aos="fade-up">
       <img src="assets/img/terapia-psicologo.jpg" class="card-img hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">
       <div id="div-titulos-imagen" class="card-img-overlay">
           <h1 class="mx-auto">Psicólogos Temuco</h1>
@@ -112,32 +112,6 @@
         </div>
       </div>
     </section><!-- End About Section -->
-
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-      <div class="container" data-aos="zoom-in">
-          <div class="section-title">
-              <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
-          </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-            <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
-          </div>
-
-        </div>
-        <hr>
-      </div>
-    </section><!-- End Clients Section -->
 
       <!-- ======= Portfolio Section ======= -->
       <section id="portfolio" class="portfolio">
@@ -203,7 +177,7 @@
                       </div>
                   </div>
 
-        </div>
+              </div>
 
           </div>
       </section><!-- End Portfolio Section -->
@@ -246,6 +220,7 @@
 
           </div>
       </section><!-- End Services Section -->
+
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials color-testimonio ">
@@ -375,93 +350,31 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
-                </div>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+      <!-- ======= Clients Section ======= -->
+      <section id="clients" class="clients">
+          <div class="container" data-aos="zoom-in">
+              <div class="section-title">
+                  <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
               </div>
-            </div>
-          </div>
 
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                </div>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
+              <div class="row">
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
+                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
+                  </div>
+
               </div>
-            </div>
+              <hr>
           </div>
-
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                </div>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                </div>
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
+      </section><!-- End Clients Section -->
 
   </main><!-- End #main -->
 
