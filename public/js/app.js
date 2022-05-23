@@ -2093,6 +2093,15 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 //     forceTLS: true
 // });
 
+/** button */
+
+window.addEventListener('load', function () {
+  var button = document.querySelector('.chat-button');
+  button.addEventListener('click', function (e) {
+    e.preventDefault();
+  });
+});
+
 /***/ }),
 
 /***/ "./node_modules/lodash/lodash.js":
