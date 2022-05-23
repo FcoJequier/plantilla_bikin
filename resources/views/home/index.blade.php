@@ -218,13 +218,6 @@
         </div>
 
         <div class="row">
-          <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class='bx bx-user'></i></div>
-              <h4 class="title"><a href="">Atención Presencial</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-            </div>
-          </div>
         <div class="testimonials-slider swiper " data-aos="fade-up" data-aos-delay="100" >
           <div class="swiper-wrapper">
 
