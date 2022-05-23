@@ -479,9 +479,9 @@ section {
 --------------------------------------------------------------*/
 .about {
   background: #3B83AE;
-  background-size: cover;
+  background-size: auto;
   padding: 0px 0;
-  position: relative;
+  /*position: relative;*/
   color: #fff;
 }
 .about .content {

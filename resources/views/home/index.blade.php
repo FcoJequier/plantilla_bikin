@@ -9,7 +9,7 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-  
+
    <!-- Button -->
    <a href="/contact" class="chat-button"></a>
 
@@ -237,6 +237,7 @@
                       <!-- End psicologos item -->
                   </div>
           </div>
+          </div>
       </section>
       <!-- End Psicologos Section -->
 
@@ -437,7 +438,7 @@
               <div class="swiper-slide">
                   <div class="testimonial-item">
                       <p>
-                          <i class="bx bxs-quote-alt-left quote-icon-left" "></i>
+                          <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                           Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                       <div class="textoReponsive">
@@ -461,6 +462,7 @@
 
         </div>
 
+      </div>
       </div>
     </section><!-- End Services Section -->
 
