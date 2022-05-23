@@ -9,6 +9,10 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
+
+   <!-- Button -->
+   <a href="/contact" class="chat-button"></a>
+
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -126,102 +130,135 @@
         </div>
         </div>
       </div>
-    </section><!-- End About Section -->
+    </section
+    ><!-- End About Section -->
 
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-      <div class="container" data-aos="zoom-in">
-          <div class="section-title">
-              <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
-          </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-            <img src="assets/img/isapres/atencion4.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion5.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/isapres/atencion6.png" class="img-fluid" alt="">
-          </div>
-
-        </div>
-        <hr>
-      </div>
-    </section><!-- End Clients Section -->
-
-      <!-- ======= Portfolio Section ======= -->
+      <!-- ======= Psicologos Section ======= -->
       <section id="portfolio" class="portfolio">
           <div class="container" data-aos="fade-up">
 
               <div class="section-title">
-                  <h2>Portfolio</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <h2>Nuestros Psicólogos</h2>
+                  <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
+                      Contamos con especialistas en todas las áreas</p>
               </div>
 
-              <div class="row">
-                  <div class="col-lg-12 d-flex justify-content-center">
-                      <ul id="portfolio-flters">
-                          <li data-filter="*" class="filter-active">All</li>
-                          <li data-filter=".filter-app">App</li>
-                          <li data-filter=".filter-card">Card</li>
-                          <li data-filter=".filter-web">Web</li>
-                      </ul>
-                  </div>
-              </div>
+              <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                  <div class="swiper-wrapper">
 
-              <div class="row portfolio-container">
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                                  <div class="portfolio-wrap">
+                                      <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                                      <div class="portfolio-info">
+                                          <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                          <h3 class="text-white">Walter White</h3>
+                                          <div class="glightbox-desc custom-desc1">
+                                              <h3>Walter White</h3>
+                                              <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                              <div class="d-flex align-items-end justify-content-end">
+                                                  <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                              </div>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                      </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>App 1</h4>
-                              <p>App</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc2">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
-                  </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>Web 3</h4>
-                              <p>Web</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc3">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
-                  </div>
+                      <!-- End psicologos item -->
 
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                      <div class="portfolio-wrap">
-                          <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-info">
-                              <h4>App 2</h4>
-                              <p>App</p>
-                              <div class="portfolio-links">
-                                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/team/team-4.jpg" data-glightbox="description: .custom-desc4" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Walter White</h3>
+                                      <div class="glightbox-desc custom-desc4">
+                                          <h3>Walter White</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
                               </div>
                           </div>
                       </div>
+                      <!-- End psicologos item -->
+
+                      <!-- Start psicologos item -->
+                      <div class="swiper-slide d-flex align-items-center justify-content-center">
+                          <div class="testimonial-item">
+                              <div class="portfolio-wrap">
+                                  <img src="assets/img/testimonials/testimonials-2.jpg" class="img-fluid" alt="">
+                                  <div class="portfolio-info">
+                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                                      <h3 class="text-white">Sarah Jhonson</h3>
+                                      <div class="glightbox-desc custom-desc5">
+                                          <h3>Sarah Jhonson</h3>
+                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
+                                          <div class="d-flex align-items-end justify-content-end">
+                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      <!-- End psicologos item -->
+
                   </div>
-
-              </div>
-
+                  <!-- If we need navigation buttons -->
+                  <div class="swiper-button-prev"></div>
+                  <div class="swiper-button-next"></div>
           </div>
-      </section><!-- End Portfolio Section -->
+          </div>
+      </section>
+      <!-- End Psicologos Section -->
 
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
@@ -269,7 +306,7 @@
 
         <div class="section-title">
 
-            <h2 style="color: white">Testimonios</h2>
+            <h2 style="color:#3B83AE">Testimonios</h2>
         </div>
 
         <div class="row">
@@ -353,9 +390,7 @@
                 </p>
 
                   <div class="imagenResponsive">
-
                       <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-
                   </div>
 
               </div>
@@ -364,7 +399,7 @@
               <div class="swiper-slide">
                   <div class="testimonial-item">
                       <p>
-                          <i class="bx bxs-quote-alt-left quote-icon-left" "></i>
+                          <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                           Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                       <div class="textoReponsive">
@@ -389,6 +424,7 @@
         </div>
 
       </div>
+      </div>
     </section><!-- End Services Section -->
 
       <!-- ======= Clients Section ======= -->
@@ -401,15 +437,15 @@
               <div class="row">
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/particulares.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/fonasa.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/isapres.png" class="img-fluid" alt="">
                   </div>
 
               </div>
@@ -427,72 +463,82 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Bikin</h3>
+
+              <h4>DevLef</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <p class="color-gris-1 mb-4">
+                  Somos una consulta de psicología online donde podrás acceder a un servicio de psicología profesional, de calidad y orientado a resultados.
+
+              </p>
+
+
             </p>
           </div>
 
+
+
+
+
+
           <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
+            <h4>Nosotros</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Precios</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Politica de privacidad</a></li>
+
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Servicios</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#">Psicólogos</a></li>
+                <li><i class="bx bx-chevron-right" ></i> <a href="#">Atencion Online y presencial</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Psicología general</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Patologías</a></li>
+
             </ul>
           </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
+            <div class="col-lg-3 col-md-6 footer-links">
+                <h4>Contacto</h4>
+                <ul>
+                    <li><i class="bx bx-chevron-right"></i> <a href="#">  <strong >Teléfono:</strong> +1 5589 55488 55</a></li>
+                    <li><i class="bx bx-chevron-right"></i> <a href="#"><strong>Email:</strong> info@example.com</a></li>
+                    <br>
+                    <div class="social-links text-capitalize text-md-right pt-3 pt-md-0">
+                        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                    </div>
+                </ul>
+            </div>
+
+
+
 
         </div>
       </div>
     </div>
+<div class="color-footer" >
 
-    <div class="container d-md-flex py-4">
+    <div class="container py-3">
 
-      <div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Bikin</span></strong>. All Rights Reserved
+      <div class="me-md-auto text-center text-md-start ">
+
+        <div class="d-flex align-items-center justify-content-center" >
+            <div>
+                <strong class="logo1 " style="color: white"   ><img src="assets/img/logo.png" alt="" class="img-fluid">©2022 Todos los derechos reservados Psicólogos Temuco </strong>
+            </div>
+
+
         </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/bikin-free-simple-landing-page-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
+
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
+
     </div>
+</div>
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>
