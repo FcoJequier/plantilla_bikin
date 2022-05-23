@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Bikin Bootstrap Template - Index</title>
+  <title>Psicólogos Temuco</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -50,9 +50,9 @@
 
         <nav id="navbar" class="navbar">
             <ul class="mx-auto">
-                <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
+                <li><a class="nav-link scrollto " href="#portfolio">Psicólogos</a></li>
+                <li><a class="nav-link scrollto" href="#testimonials">Testimonios</a></li>
             </ul>
             <ul class="mx-auto">
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
@@ -104,7 +104,7 @@
         <div class="row no-gutters">
           <div class="content col-xl-6 d-flex align-items-stretch" data-aos="fade-right">
             <div class="content">
-              <h3>Quiénes Somos?</h3>
+              <h3>Quiénes Somos</h3>
               <p>
                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."              </p>
               <a href="#" class="about-btn">Acerca de Nosotros <i class="bx bx-chevron-right"></i></a>
