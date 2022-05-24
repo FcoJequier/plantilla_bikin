@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Bikin Bootstrap Template - Index</title>
+  <title>Psicólogos Temuco</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -50,9 +50,9 @@
 
         <nav id="navbar" class="navbar">
             <ul class="mx-auto">
-                <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                <li><a class="nav-link scrollto" href="#team">Team</a></li>
+                <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
+                <li><a class="nav-link scrollto " href="#portfolio">Psicólogos</a></li>
+                <li><a class="nav-link scrollto" href="#testimonials">Testimonios</a></li>
             </ul>
             <ul class="mx-auto">
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
@@ -104,7 +104,7 @@
         <div class="row no-gutters">
           <div class="content col-xl-6 d-flex align-items-stretch" data-aos="fade-right">
             <div class="content">
-              <h3>Quiénes Somos?</h3>
+              <h3>Quiénes Somos</h3>
               <p>
                   "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."              </p>
               <a href="#" class="about-btn">Acerca de Nosotros <i class="bx bx-chevron-right"></i></a>
@@ -152,15 +152,15 @@
                                   <div class="portfolio-wrap">
                                       <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                                       <div class="portfolio-info">
-                                          <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+{{--                                          <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                           <h3 class="text-white">Walter White</h3>
-                                          <div class="glightbox-desc custom-desc1">
-                                              <h3>Walter White</h3>
-                                              <h6>Psicólogo especializado en trastornos ansiosos.</h6>
-                                              <div class="d-flex align-items-end justify-content-end">
-                                                  <button id="btn-1" class="btn btn-primary">Reservar</button>
-                                              </div>
-                                          </div>
+{{--                                          <div class="glightbox-desc custom-desc1">--}}
+{{--                                              <h3>Walter White</h3>--}}
+{{--                                              <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                              <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                                  <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                              </div>--}}
+{{--                                          </div>--}}
                                       </div>
                                   </div>
                               </div>
@@ -173,15 +173,15 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
                                   <div class="portfolio-info">
-                                      <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+{{--                                      <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-                                      <div class="glightbox-desc custom-desc2">
-                                          <h3>Walter White</h3>
-                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
-                                          <div class="d-flex align-items-end justify-content-end">
-                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
-                                          </div>
-                                      </div>
+{{--                                      <div class="glightbox-desc custom-desc2">--}}
+{{--                                          <h3>Walter White</h3>--}}
+{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                          </div>--}}
+{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -194,15 +194,15 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-                                      <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+{{--                                      <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-                                      <div class="glightbox-desc custom-desc3">
-                                          <h3>Walter White</h3>
-                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
-                                          <div class="d-flex align-items-end justify-content-end">
-                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
-                                          </div>
-                                      </div>
+{{--                                      <div class="glightbox-desc custom-desc3">--}}
+{{--                                          <h3>Walter White</h3>--}}
+{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                          </div>--}}
+{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -215,15 +215,15 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-                                      <a href="assets/img/team/team-4.jpg" data-glightbox="description: .custom-desc4" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+{{--                                      <a href="assets/img/team/team-4.jpg" data-glightbox="description: .custom-desc4" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-                                      <div class="glightbox-desc custom-desc4">
-                                          <h3>Walter White</h3>
-                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
-                                          <div class="d-flex align-items-end justify-content-end">
-                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
-                                          </div>
-                                      </div>
+{{--                                      <div class="glightbox-desc custom-desc4">--}}
+{{--                                          <h3>Walter White</h3>--}}
+{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                          </div>--}}
+{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -236,15 +236,15 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/testimonials/testimonials-2.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+{{--                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Sarah Jhonson</h3>
-                                      <div class="glightbox-desc custom-desc5">
-                                          <h3>Sarah Jhonson</h3>
-                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>
-                                          <div class="d-flex align-items-end justify-content-end">
-                                              <button id="btn-1" class="btn btn-primary">Reservar</button>
-                                          </div>
-                                      </div>
+{{--                                      <div class="glightbox-desc custom-desc5">--}}
+{{--                                          <h3>Sarah Jhonson</h3>--}}
+{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
+{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
+{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
+{{--                                          </div>--}}
+{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -252,13 +252,39 @@
                       <!-- End psicologos item -->
 
                   </div>
-                  <!-- If we need navigation buttons -->
+                  <!-- Navigation buttons -->
                   <div class="swiper-button-prev"></div>
                   <div class="swiper-button-next"></div>
           </div>
           </div>
       </section>
       <!-- End Psicologos Section -->
+
+      <!-- ======= Clients Section ======= -->
+      <section id="clients" class="clients">
+          <div class="container" data-aos="zoom-in">
+              <div class="section-title">
+                  <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
+              </div>
+
+              <div class="row">
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+                  </div>
+
+                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
+                  </div>
+
+              </div>
+          </div>
+      </section>
+      <!-- End Clients Section -->
 
       <!-- ======= Services Section ======= -->
       <section id="services" class="services">
@@ -420,38 +446,14 @@
 
 
           </div>
-
+            <!-- Navigation buttons -->
+            <div id="swiper-button-prev-testimonial" class="swiper-button-prev"></div>
+            <div id="swiper-button-next-testimonial" class="swiper-button-next"></div>
         </div>
 
       </div>
       </div>
     </section><!-- End Services Section -->
-
-      <!-- ======= Clients Section ======= -->
-      <section id="clients" class="clients">
-          <div class="container" data-aos="zoom-in">
-              <div class="section-title">
-                  <h2 class="Clients">Nuestros Profesionales Atienden con</h2>
-              </div>
-
-              <div class="row">
-
-                  <div class="col-lg-4 col-md-4 col-6 d-flex align-itemcenter justify-content-center">
-                      <img src="assets/img/isapres/particulares.png" class="img-fluid" alt="">
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/fonasa.png" class="img-fluid" alt="">
-                  </div>
-
-                  <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/isapres.png" class="img-fluid" alt="">
-                  </div>
-
-              </div>
-              <hr>
-          </div>
-      </section><!-- End Clients Section -->
 
   </main><!-- End #main -->
 
@@ -460,43 +462,24 @@
 
     <div class="footer-top">
       <div class="container">
-        <div class="row">
+        <div class="row d-flex align-items-center justify-content-center">
 
           <div class="col-lg-3 col-md-6 footer-contact">
 
               <h4>DevLef</h4>
-            <p>
               <p class="color-gris-1 mb-4">
                   Somos una consulta de psicología online donde podrás acceder a un servicio de psicología profesional, de calidad y orientado a resultados.
-
               </p>
-
-
-            </p>
-          </div>
-
-
-
-
-
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Nosotros</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Precios</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Politica de privacidad</a></li>
-
-            </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Servicios</h4>
+            <h4>Secciones</h4>
             <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Psicólogos</a></li>
-                <li><i class="bx bx-chevron-right" ></i> <a href="#">Atencion Online y presencial</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Psicología general</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Patologías</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#about">Quiénes somos</a></li>
+                <li><i class="bx bx-chevron-right" ></i> <a href="#portfolio">Nuestros Psicólogos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#clients">Convenios</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="#testimonials">Testimonios</a></li>
 
             </ul>
           </div>
@@ -514,10 +497,6 @@
                     </div>
                 </ul>
             </div>
-
-
-
-
         </div>
       </div>
     </div>
@@ -529,14 +508,10 @@
 
         <div class="d-flex align-items-center justify-content-center" >
             <div>
-                <strong class="logo1 " style="color: white"   ><img src="assets/img/logo.png" alt="" class="img-fluid">©2022 Todos los derechos reservados Psicólogos Temuco </strong>
+                <strong class="logo1 " style="color: white"   ><img src="assets/img/logo.png" alt="" class="img-fluid"> ©2022 Todos los derechos reservados Psicólogos Temuco </strong>
             </div>
-
-
         </div>
-
       </div>
-
     </div>
 </div>
   </footer><!-- End Footer -->

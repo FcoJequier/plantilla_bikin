@@ -693,7 +693,7 @@ section {
 # Profesional Section
 --------------------------------------------------------------*/
 .clients {
-  background: #3B83AE;
+  background: #ffffff;
   padding: 15px 0;
   text-align: center;
 }
@@ -701,7 +701,7 @@ hr {
     background-color: #3B83AE;
 }
 .clients h2{
-    color: #ffffff;
+    color: #3B83AE;
 }
 .clients img {
   max-width: 60%;
@@ -1057,10 +1057,6 @@ border-color:  #3B83AE  ;;
     justify-content: center;
     align-items: center;
     left: 170px;
-
-
-
-
 }
     .imagenResponsive{
         bottom: 120px;
@@ -1134,6 +1130,14 @@ border-color:  #3B83AE  ;;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #FFBB00;
+}
+
+#swiper-button-next-testimonial {
+    margin-right: 10px;
+}
+
+#swiper-button-prev-testimonial {
+    margin-left: 10px;
 }
 
 
