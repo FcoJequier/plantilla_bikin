@@ -9,10 +9,6 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-
-   <!-- Button -->
-   <a href="/contact" class="chat-button"></a>
-
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -30,6 +26,9 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- chatBot-->
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
   <!-- =======================================================
   * Template Name: Bikin - v4.7.0
@@ -50,9 +49,9 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
-                <li><a class="nav-link scrollto " href="#portfolio">Psicólogos</a></li>
-                <li><a class="nav-link scrollto" href="#testimonials">Testimonios</a></li>
+                <li><a class="nav-link" href="#services">Servicios</a></li>
+                <li><a class="nav-link" href="#portfolio">Psicólogos</a></li>
+                <li><a class="nav-link" href="#testimonials">Testimonios</a></li>
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">Ingresar</a></li>
@@ -503,8 +502,8 @@
 </div>
   </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+<!-- MyBot -->
+<mybot></mybot>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
@@ -516,6 +515,10 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+    <!--JS-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="assets/js/script.js"></script>
 
 </body>
 
