@@ -49,8 +49,11 @@
 
         <nav id="navbar" class="navbar">
             <ul>
-                <li><a class="nav-link" href="#services">Servicios</a></li>
+                <li><a class="nav-link" href="#">Inicio</a></li>
+                <li><a class="nav-link" href="#about">Quiénes somos</a></li>
                 <li><a class="nav-link" href="#portfolio">Psicólogos</a></li>
+                <li><a class="nav-link" href="#clients">Convenios</a></li>
+                <li><a class="nav-link" href="#services">Servicios</a></li>
                 <li><a class="nav-link" href="#testimonials">Testimonios</a></li>
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
