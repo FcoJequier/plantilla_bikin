@@ -86,8 +86,9 @@
         <div class="container-image">
             <img src="assets/img/hero.jpg" alt="" class="card-img hero-img">
             <div id="div-titulos-imagen" class="card-img-overlay">
-                <h1 class="mx-auto">Psicólogos Temuco</h1>
+                <h1 class="mx-auto " >PSICÓLOGOS TEMUCO</h1><br>
                 <h2 class="mx-auto">We are team of talented designers making websites with Bootstrap</h2>
+              <br>
                 <a href="#about" class="btn-get-started scrollto">RESERVA TU HORA</a>
             </div>
         </div>
