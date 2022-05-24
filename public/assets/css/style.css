@@ -1750,7 +1750,7 @@ border-color:  #3B83AE  ;;
         border: 1px solid #dcdcdc;
         bottom: 65px;
         right: 0;
-        background: #efe7dd url(../img/bg2.png) repeat;
+        background: #efe7dd url(../img/chatBot/bg2.png) repeat;
         border-top-left-radius: 3px;
         z-index: 10000;
         display: none;
