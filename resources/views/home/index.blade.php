@@ -49,16 +49,14 @@
         <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
         <nav id="navbar" class="navbar">
-            <ul class="mx-auto">
+            <ul>
                 <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
                 <li><a class="nav-link scrollto " href="#portfolio">Psicólogos</a></li>
                 <li><a class="nav-link scrollto" href="#testimonials">Testimonios</a></li>
-            </ul>
-            <ul class="mx-auto">
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
-                        <li class="lista-cuenta"><a href="#">Ingresar</a></li>
-                        <li class="lista-cuenta"><a href="#">Registrarse</a></li>
+                        <li><a href="#">Ingresar</a></li>
+                        <li><a href="#">Registrarse</a></li>
                     </ul>
                 </li>
             </ul>
