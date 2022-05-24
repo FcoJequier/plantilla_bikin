@@ -69,7 +69,7 @@
 <section id="hero" class="section-hero d-flex align-items-center">
     <div id="imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">
         <div class="container-image">
-            <img src="assets/img/hero.jpg" alt="" class="card-img hero-img">
+            <img src="assets/img/terapia-psicologo.jpg" alt="" class="card-img hero-img">
             <div id="div-titulos-imagen" class="card-img-overlay">
                 <h1 class="mx-auto " >PSICÓLOGOS TEMUCO</h1><br>
                 <h2 class="mx-auto">We are team of talented designers making websites with Bootstrap</h2>
@@ -220,7 +220,7 @@
                       <div class="swiper-slide d-flex align-items-center justify-content-center">
                           <div class="testimonial-item">
                               <div class="portfolio-wrap">
-                                  <img src="assets/img/testimonials/testimonials-2.jpg" class="img-fluid" alt="">
+                                  <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
 {{--                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Sarah Jhonson</h3>
