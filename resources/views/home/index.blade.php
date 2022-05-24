@@ -67,18 +67,6 @@
 </header><!-- End Header -->
 
 
-{{--<section id="hero" class="section-hero d-flex align-items-center">--}}
-{{--  <!-- ======= Hero Section ======= -->--}}
-{{--  <div id="div-imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">--}}
-{{--      <img src="assets/img/hero.jpg" class="card-img hero-img" alt="" data-aos="zoom-in" data-aos-delay="150">--}}
-{{--      <div id="div-titulos-imagen" class="card-img-overlay">--}}
-{{--          <h1 class="mx-auto">Psicólogos Temuco</h1>--}}
-{{--          <h2 class="mx-auto">We are team of talented designers making websites with Bootstrap</h2>--}}
-{{--          <a href="#about" class="btn-get-started scrollto">RESERVA TU HORA</a>--}}
-{{--      </div>--}}
-{{--  </div>--}}
-{{--  </section>--}}
-
 <section id="hero" class="section-hero d-flex align-items-center">
     <div id="imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">
         <div class="container-image">
