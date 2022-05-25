@@ -259,11 +259,11 @@
               <div class="row">
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+                      <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
                   </div>
 
                   <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
@@ -447,6 +447,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
+
   <footer id="footer">
 
     <div class="footer-top">
