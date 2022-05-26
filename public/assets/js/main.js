@@ -181,31 +181,14 @@
   /**
    * Initiate portfolio lightbox
    */
-  const portfolioLightbox = GLightbox({
-    selector: '.portfolio-lightbox'
-  });
+  // const portfolioLightbox = GLightbox({
+  //   selector: '.portfolio-lightbox'
+  // });
 
   /**
-   * Portfolio details slider
+   * Swiper Psicologos
    */
-  new Swiper('.portfolio-details-slider', {
-    speed: 400,
-    loop: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    }
-  });
-
-  /**
-   * Testimonials slider
-   */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.psicologos-carrusel', {
     speed: 600,
     loop: true,
     autoplay: {
@@ -226,7 +209,12 @@
       1200: {
         slidesPerView: 3,
         spaceBetween: 20
-      }
+      },
+
+        2560: {
+            slidesPerView: 5,
+            spaceBetween: 20
+        }
     }
   });
 
