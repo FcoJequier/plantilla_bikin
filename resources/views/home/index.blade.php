@@ -40,7 +40,77 @@
 
 <body>
 
+<section id="terapias" class="categorias-terapias">
+    <h2>Terapias Psicologicas</h2>
+    <p>Elige la terapia que necesites</p>
+    <div class="listado-terapias" data-aos="fade-up">
+        <!-- ---------------------------- -->
+        <div class="terapia1 contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
 
+        <!-- ---------------------------- -->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen2.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen3.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen4.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen5.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen6.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen7.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen8.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+        <div class="contenedor">
+            <a href="#" class="terapia">
+                <img class="imagen-terapia" src="../assets/img/terapias-psicologicas/imagen8.jpg" />
+                <div class="titulo-terapia">Terapia</div>
+            </a>
+        </div>
+        <!-- --------------------------------->
+    </div>
+</section>
 
 
 
