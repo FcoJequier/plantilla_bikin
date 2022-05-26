@@ -30,99 +30,31 @@
     <!-- chatBot-->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
-  <!-- =======================================================
-  * Template Name: Bikin - v4.7.0
-  * Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
+<!-- Barra de navegacion -->
+<header>
 
-<header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center justify-content-between">
-
-        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-        <nav id="navbar" class="navbar">
-            <ul>
-                <li><a class="nav-link" href="#">Inicio</a></li>
-                <li><a class="nav-link" href="#about">Quiénes somos</a></li>
-                <li><a class="nav-link" href="#portfolio">Psicólogos</a></li>
-                <li><a class="nav-link" href="#clients">Convenios</a></li>
-                <li><a class="nav-link" href="#services">Servicios</a></li>
-                <li><a class="nav-link" href="#testimonials">Testimonios</a></li>
-                <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
-                    <ul>
-                        <li><a href="#">Ingresar</a></li>
-                        <li><a href="#">Registrarse</a></li>
-                    </ul>
-                </li>
-            </ul>
-            <i class="bi bi-list mobile-nav-toggle"></i>
-        </nav><!-- .navbar -->
-
-    </div>
-</header><!-- End Header -->
+</header>
+<!-- Final Barra de navegacion -->
 
 
-<section id="hero" class="section-hero d-flex align-items-center">
-    <div id="imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">
-        <div class="container-image">
-            <img src="assets/img/terapia-psicologo.jpg" alt="" class="card-img hero-img">
-            <div id="div-titulos-imagen" class="card-img-overlay">
-                <h1 class="mx-auto " >PSICÓLOGOS TEMUCO</h1><br>
-                <h2 class="mx-auto">We are team of talented designers making websites with Bootstrap</h2>
-              <br>
-                <a href="#about" class="btn-get-started scrollto">RESERVA TU HORA</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Hero -->
+<!-- Seccion Imagen Principal -->
+<section>
+
+
+</section> <!-- Final Imagen Principal -->
 
   <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
+    <!-- ======= Seccion quienes somos ======= -->
+    <section>
 
-        <div class="row no-gutters">
-          <div class="content col-xl-6 d-flex align-items-stretch" data-aos="fade-right">
-            <div class="content">
-              <h3>Quiénes Somos</h3>
-              <p>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."              </p>
-              <a href="#" class="about-btn">Acerca de Nosotros <i class="bx bx-chevron-right"></i></a>
-            </div>
-          </div>
-            <div class="content col-xl-6 d-flex align-items-stretch" data-aos="fade-left">
-                <div class="content">
-                    <h3>A quién va dirigida?</h3>
-                    <p>
-                        La terapia psicológica está orientada a personas que se encuentra en diferentes situaciones como pueden ser las siguientes:
-                    </p>
-                    <ul>
-                        <li><i class="bi bi-play-fill"></i>Personas que padecen un trastorno psicológico, como puede ser una depresión, ansiedad, fobias, TOC, etc.</li>
-                        <hr>
-                        <li><i class="bi bi-play-fill"></i>Personas que padecen un trastorno psicológico, como puede ser una depresión, ansiedad, fobias, TOC, etc.</li>
-                        <hr>
-                        <li><i class="bi bi-play-fill"></i>Personas que padecen un trastorno psicológico, como puede ser una depresión, ansiedad, fobias, TOC, etc.</li>
-                        <hr>
-                        <li><i class="bi bi-play-fill"></i>Personas que padecen un trastorno psicológico, como puede ser una depresión, ansiedad, fobias, TOC, etc.</li>
-                        <hr>
-                    </ul>
-                </div>
-        </div>
-        </div>
-      </div>
     </section
-    ><!-- End About Section -->
+    ><!-- Final seccion quienes somos -->
 
-      <!-- ======= Psicologos Section ======= -->
+      <!-- ======= Seccion Psicologos ======= -->
       <section id="portfolio" class="portfolio">
           <div class="container" data-aos="fade-up">
 
@@ -141,15 +73,7 @@
                                   <div class="portfolio-wrap">
                                       <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                                       <div class="portfolio-info">
-{{--                                          <a href="assets/img/team/team-1.jpg" data-glightbox="description: .custom-desc1" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                           <h3 class="text-white">Walter White</h3>
-{{--                                          <div class="glightbox-desc custom-desc1">--}}
-{{--                                              <h3>Walter White</h3>--}}
-{{--                                              <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                              <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                                  <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                              </div>--}}
-{{--                                          </div>--}}
                                       </div>
                                   </div>
                               </div>
@@ -162,15 +86,7 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
                                   <div class="portfolio-info">
-{{--                                      <a href="assets/img/team/team-2.jpg" data-glightbox="description: .custom-desc2" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-{{--                                      <div class="glightbox-desc custom-desc2">--}}
-{{--                                          <h3>Walter White</h3>--}}
-{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                          </div>--}}
-{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -183,15 +99,7 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-{{--                                      <a href="assets/img/team/team-3.jpg" data-glightbox="description: .custom-desc3" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-{{--                                      <div class="glightbox-desc custom-desc3">--}}
-{{--                                          <h3>Walter White</h3>--}}
-{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                          </div>--}}
-{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -204,15 +112,7 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-{{--                                      <a href="assets/img/team/team-4.jpg" data-glightbox="description: .custom-desc4" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Walter White</h3>
-{{--                                      <div class="glightbox-desc custom-desc4">--}}
-{{--                                          <h3>Walter White</h3>--}}
-{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                          </div>--}}
-{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -225,15 +125,7 @@
                               <div class="portfolio-wrap">
                                   <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                                   <div class="portfolio-info">
-{{--                                      <a href="assets/img/testimonials/testimonials-2.jpg" data-glightbox="description: .custom-desc5" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>--}}
                                       <h3 class="text-white">Sarah Jhonson</h3>
-{{--                                      <div class="glightbox-desc custom-desc5">--}}
-{{--                                          <h3>Sarah Jhonson</h3>--}}
-{{--                                          <h6>Psicólogo especializado en trastornos ansiosos.</h6>--}}
-{{--                                          <div class="d-flex align-items-end justify-content-end">--}}
-{{--                                              <button id="btn-1" class="btn btn-primary">Reservar</button>--}}
-{{--                                          </div>--}}
-{{--                                      </div>--}}
                                   </div>
                               </div>
                           </div>
@@ -276,43 +168,9 @@
       <!-- End Clients Section -->
 
       <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-          <div class="container" data-aos="fade-up">
-
-              <div class="section-title">
-                  <h2>Servicios</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-              </div>
-
-              <div class="row">
-                  <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-                      <div class="icon-box">
-                          <div class="icon"><i class='bx bxs-video'></i></div>
-                          <h4 class="title"><a href="">Atención Online</a></h4>
-                          <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-                      </div>
-                  </div>
-
-                  <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-                      <div class="icon-box">
-                          <div class="icon"><i class='bx bxs-user'></i></div>
-                          <h4 class="title"><a href="">Atención Presencial</a></h4>
-                          <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                      </div>
-                  </div>
-
-                  <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-                      <div class="icon-box">
-                          <div class="icon"><i class='bx bx-home' ></i></div>
-                          <h4 class="title"><a href="">Atención Domiciliaria</a></h4>
-                          <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                      </div>
-                  </div>
-
-              </div>
-
-          </div>
-      </section><!-- End Services Section -->
+      <section>
+      </section>
+      <!-- End Services Section -->
 
 
     <!-- ======= Testimonials Section ======= -->
