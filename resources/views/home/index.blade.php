@@ -30,15 +30,120 @@
     <!-- chatBot-->
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
-  <!-- =======================================================
-  * Template Name: Bikin - v4.7.0
-  * Template URL: https://bootstrapmade.com/bikin-free-simple-landing-page-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
+
+<div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
+</div>
+
+<!-- ======= Inicio Seccion Psicologos ======= -->
+<section id="psicologos" class="psicologos">
+    <div id="contenedorPsicologos" class="container-fluid" data-aos="fade-up">
+
+        <div class="text-center">
+            <h1 id="tituloPsicologos">Nuestros Psicólogos</h1>
+            <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
+                Contamos con especialistas en todas las áreas</p>
+        </div>
+
+        <div class="psicologos-carrusel swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+
+                <!-- Inicio item psicologos -->
+                <div class="swiper-slide d-flex align-items-center justify-content-center">
+                    <div class="testimonial-item">
+                        <div class="psicologos-envolver">
+                            <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                            <div class="psicologos-info">
+                                <h3 class="text-white">Walter White</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin item psicogolos -->
+
+                <!-- Inicio item psicologos -->
+                <div class="swiper-slide d-flex align-items-center justify-content-center">
+                    <div class="testimonial-item">
+                        <div class="psicologos-envolver">
+                            <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
+                            <div class="psicologos-info">
+                                <h3 class="text-white">Walter White</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin item psicogolos -->
+
+                <!-- Inicio item psicologos -->
+                <div class="swiper-slide d-flex align-items-center justify-content-center">
+                    <div class="testimonial-item">
+                        <div class="psicologos-envolver">
+                            <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                            <div class="psicologos-info">
+                                <h3 class="text-white">Walter White</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin item psicogolos -->
+
+                <!-- Inicio item psicologos -->
+                <div class="swiper-slide d-flex align-items-center justify-content-center">
+                    <div class="testimonial-item">
+                        <div class="psicologos-envolver">
+                            <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                            <div class="psicologos-info">
+                                <h3 class="text-white">Walter White</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin item psicogolos -->
+
+                <!-- Inicio item psicologos -->
+                <div class="swiper-slide d-flex align-items-center justify-content-center">
+                    <div class="testimonial-item">
+                        <div class="psicologos-envolver">
+                            <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                            <div class="psicologos-info">
+                                <h3 class="text-white">Sarah Jhonson</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin item psicogolos -->
+            </div>
+            <!-- Navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+        </div>
+    </div>
+</section>
+<!-- Fin Seccion Psicologos -->
+
+
+
+<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section id="terapias" class="categorias-terapias">
     <h2>Terapias Psicologicas</h2>
@@ -111,10 +216,6 @@
         <!-- --------------------------------->
     </div>
 </section>
-
-
-
-
 
 
 
