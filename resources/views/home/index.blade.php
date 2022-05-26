@@ -59,7 +59,7 @@
                 <a href="#">Leer más</a>
             </div>
             <div class="card">
-                <img src="assets/img/quienesSomos/psicologiaHumana.jpg ">
+                <img src="assets/img/quienesSomos/psicologia.png ">
                 <h4>Psicologia humana</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
