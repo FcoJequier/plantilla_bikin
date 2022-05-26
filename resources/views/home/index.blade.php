@@ -33,7 +33,7 @@
 </head>
 
 <body>
-
+<!-- ======= Separacion en Ola======= -->
 <div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
@@ -134,16 +134,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+<!-- ======= Seccion terapias======= -->
 
 <section id="terapias" class="categorias-terapias">
     <h2>Terapias Psicologicas</h2>
@@ -217,7 +208,11 @@
     </div>
 </section>
 
-
+<!-- ======= Separacion en Ola======= -->
+<div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
+</div>
 
 
 
