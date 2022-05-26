@@ -39,7 +39,42 @@
 </head>
 
 <body>
+<section class="quienesSomos">
+    <div class="in-flex">
+        <h3 class="tituloQuienesSomos">¿Quienes sómos?</h3>
+        <div class="in-flex ">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+        </div>
+        <!--    <div class="terapias">
+            <p class="letras-diseño">
+                <strong style="color: rgb(64,184,150)">Terapias</strong>
+            </p>
+           -->
+        <div class="container">
+            <div class="card">
+                <img src="assets/img/quienesSomos/terapias.jpg ">
+                <h4>Terapias breves</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                <a href="#">Leer más</a>
+            </div>
+            <div class="card">
+                <img src="assets/img/quienesSomos/espacioSeguro.png ">
+                <h4>Espacios seguro</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                <a href="#">Leer más</a>
+            </div>
+            <div class="card">
+                <img src="assets/img/quienesSomos/psicologiaHumana.jpg ">
+                <h4>Psicologia humana</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                <a href="#">Leer más</a>
+            </div>
+        </div>
 
+
+    </div>
+
+</section>
 
 
 
