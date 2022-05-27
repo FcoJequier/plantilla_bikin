@@ -78,7 +78,7 @@
         </div>
     </div>
 </section>
-<!-- End Hero -->
+<!-- Final "Hero" -->
 
   <main id="main">
     <!-- ======= Sección Quiénes Somos ======= -->
