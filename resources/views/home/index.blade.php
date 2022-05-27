@@ -42,20 +42,20 @@
                 Contamos con especialistas en todas las áreas</p>
         </div>
         <div class="contenedorTarjetas">
-            <div class="tarjeta">
-                <img src="assets/img/quienesSomos/terapias.jpg " class="img-fluid" alt="">
-                <h4>Terapias breves</h4>
+           <div class="tarjeta" data-aos="fade-up" data-aos-delay="300">
+                <img src="assets/img/quienesSomos/calidad1.png " class="img-fluid" alt="">
+                <h4>Calidad garantizada</h4>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
             </div>
-            <div class="tarjeta">
+            <div class="tarjeta" data-aos="fade-up" data-aos-delay="300" >
                 <img src="assets/img/quienesSomos/espacioSeguro1.png "  class="img-fluid" alt="">
                 <h4>Espacios seguro</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
             </div>
-            <div class="tarjeta">
+            <div class="tarjeta" data-aos="fade-up" data-aos-delay="100">
                 <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
                 <h4>Psicologia humana</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
