@@ -119,7 +119,7 @@
     </section
     ><!-- Final Sección Quiénes Somos -->
 
-      <!-- ======= Psicologos Section ======= -->
+      <!-- ======= Sección Psicologos ======= -->
       <section id="portfolio" class="portfolio">
           <div class="container" data-aos="fade-up">
 
@@ -244,7 +244,7 @@
           </div>
           </div>
       </section>
-      <!-- End Psicologos Section -->
+      <!-- Final Sección Psicologos -->
 
       <!-- ======= Clients Section ======= -->
       <section id="clients" class="clients">
