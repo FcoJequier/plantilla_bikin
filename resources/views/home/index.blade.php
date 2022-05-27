@@ -64,6 +64,7 @@
     </div>
 </header><!-- End Header -->
 
+<!-- ======= Sección Hero ======= -->
 <section id="hero" class="section-hero d-flex align-items-center">
     <div id="imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">
         <div class="container-image">
@@ -80,7 +81,7 @@
 <!-- End Hero -->
 
   <main id="main">
-    <!-- ======= About Section ======= -->
+    <!-- ======= Sección Quiénes Somos ======= -->
     <section id="about" class="about">
       <div class="container">
 
@@ -114,7 +115,7 @@
         </div>
       </div>
     </section
-    ><!-- End About Section -->
+    ><!-- Final Sección Quiénes Somos -->
 
       <!-- ======= Psicologos Section ======= -->
       <section id="portfolio" class="portfolio">
