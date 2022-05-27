@@ -25,7 +25,7 @@
               Quienes somos
 ------------------------------------------------ */
 
-
+/*
 .quienesSomos{
     display: flex;
     flex-wrap: wrap;
@@ -43,22 +43,23 @@
     text-align: center;
 
 }
-.contenedorQuienesSomos:first-child{
+.contenedorQuienesSomos:first-child{/
     flex: 1;
     padding: 100px;
-    background-color:  #fefefe ;
+    background-color: red ;
     margin:auto;
 
 }
 .contenedorTarjetas{
     width: 100%;
-    max-width: 2000px;
+    max-width: initial;
     height: 1000px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: auto;
-background-color: orange;
+    margin: 10px;
+    background-color:   #FFBB00;
+    overflow: hidden;
 }
 .contenedorTarjetas .tarjeta{
     width: 350px;
@@ -66,7 +67,7 @@ background-color: orange;
     border-radius: 8px;
     box-shadow: 0 2px 2px rgba(0,0,0,0.2);
     overflow: hidden;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
     transition: all 0.25s;
     background-color: #fefefe;
@@ -94,6 +95,60 @@ background-color: orange;
     text-decoration: none;
     color:    #3B83AE   ;
 }
+*/
+
+/*----------------------------------------------
+              Quienes somos 2 apoyado en servivicios
+------------------------------------------------ */
+.quienesSomos{
+    background: #3B83AE;
+    padding-bottom: 80px;
+}
+.quienesSomos .tituloQuienesSomos h2, .quienesSomos .tituloQuienesSomos p {
+    color: #fff;
+    text-align: center;
+}
+.quienesSomos .tituloQuienesSomosh2::after {
+    background: rgba(255, 255, 255, 0.2);
+}
+.quienesSomos .icon-box {
+    padding: 50px 30px;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+    transition: all 0.3s;
+    border-radius: 5px;
+    text-align: center;
+}
+.quienesSomos .icon-box:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 16px rgba(0,0,0,0.2);
+}
+.quienesSomos .title {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+.quienesSomos .title a {
+    color: #2d405f;
+    transition: 0.3s;
+}
+.quienesSomos .title a:hover {
+    color: #4e6fa4;
+}
+.quienesSomos .description {
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.row .icon-box img{
+    width: 150px;
+    height: 100px;
+}
+
+
+
 /*--------------------------------------------------------------
 # Psicologos
 --------------------------------------------------------------*/

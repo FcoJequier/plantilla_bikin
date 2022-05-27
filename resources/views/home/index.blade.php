@@ -34,7 +34,7 @@
 
 <body>
 <!-- ======= Inicio Seccion Quienes somos ======= -->
-<section class="quienesSomos">
+<!--<section class="quienesSomos">
     <div class="contenedorQuienesSomos">
         <div class="text-center">
             <h1 id="tituloQuienesSomos">¿Quienes sómos?</h1>
@@ -67,6 +67,54 @@
     </div>
 
 </section>
+-->
+<!-- ======= Inicio Seccion Quienes somos ======= -->
+<section id="quienesSomos" class="quienesSomos">
+    <div class="container" data-aos="fade-up">
+
+        <div class="tituloQuienesSomos">
+            <h2>¿Quiénes Somos?</h2>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon-box">
+                    <img src="assets/img/quienesSomos/calidad1.png " class="img-fluid" alt="">
+                    <h4>Calidad garantizada</h4>
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                    <a href="#">Leer más</a>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon-box">
+                    <img src="assets/img/quienesSomos/espacioSeguro1.png "  class="img-fluid" alt="">
+                    <h4>Espacios seguro</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                    <a href="#">Leer más</a>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+                <div class="icon-box">
+                    <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
+                    <h4>Psicologia humana</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                    <a href="#">Leer más</a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
 <!-- ======= Fin seccion Quienes somos ======= -->
 
 <!-- ======= Separacion en Ola======= -->
