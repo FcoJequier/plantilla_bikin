@@ -33,33 +33,30 @@
 </head>
 
 <body>
-
+<!-- ======= Inicio Seccion Quienes somos ======= -->
 <section class="quienesSomos">
-    <div class="in-flex">
-        <h3 class="tituloQuienesSomos">¿Quienes sómos?</h3>
-        <div class="in-flex ">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+    <div class="contenedorQuienesSomos">
+        <div class="text-center">
+            <h1 id="tituloQuienesSomos">¿Quienes sómos?</h1>
+            <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
+                Contamos con especialistas en todas las áreas</p>
         </div>
-        <!--    <div class="terapias">
-            <p class="letras-diseño">
-                <strong style="color: rgb(64,184,150)">Terapias</strong>
-            </p>
-           -->
-        <div class="container">
-            <div class="card">
-                <img src="assets/img/quienesSomos/terapias.jpg ">
+        <div class="contenedorTarjetas">
+            <div class="tarjeta">
+                <img src="assets/img/quienesSomos/terapias.jpg " class="img-fluid" alt="">
                 <h4>Terapias breves</h4>
+
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
             </div>
-            <div class="card">
-                <img src="assets/img/quienesSomos/espacioSeguro.png ">
+            <div class="tarjeta">
+                <img src="assets/img/quienesSomos/espacioSeguro1.png "  class="img-fluid" alt="">
                 <h4>Espacios seguro</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
             </div>
-            <div class="card">
-                <img src="assets/img/quienesSomos/psicologia.png ">
+            <div class="tarjeta">
+                <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
                 <h4>Psicologia humana</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
                 <a href="#">Leer más</a>
@@ -70,7 +67,7 @@
     </div>
 
 </section>
-
+<!-- ======= Fin seccion Quienes somos ======= -->
 
 <!-- ======= Separacion en Ola======= -->
 <div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
