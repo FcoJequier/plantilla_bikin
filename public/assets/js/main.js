@@ -179,14 +179,14 @@
   });
 
   /**
-   * Initiate portfolio lightbox
+   * psicologos lightbox
    */
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox'
   });
 
   /**
-   * Portfolio details slider
+   * psicologos
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,

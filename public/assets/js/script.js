@@ -23,7 +23,6 @@ $(document).ready(function() {
 									'<input type="text" id="chat-input" autocomplete="off" placeholder="Try typing here"'+ 'class="form-control bot-txt"/>'+
 								'</div>'+
 							'</div><!--chatCont end-->'+
-
 							'<div class="profile_div" data-aos="zoom-in" data-aos-once="false">'+
 								'<div class="row">'+
 									'<div class="col-hgt">'+

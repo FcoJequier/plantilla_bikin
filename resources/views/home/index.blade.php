@@ -40,13 +40,10 @@
 
 <body>
 
+<!-- ======= Sección Inicial ======= -->
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center justify-content-between">
-
         <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link" href="#">Inicio</a></li>
@@ -64,10 +61,8 @@
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
-
     </div>
 </header><!-- End Header -->
-
 
 <section id="hero" class="section-hero d-flex align-items-center">
     <div id="imagen-principal" class="card d-flex flex-column align-items-center justify-content-center mx-auto my-auto" data-aos="fade-down">
@@ -85,7 +80,6 @@
 <!-- End Hero -->
 
   <main id="main">
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
