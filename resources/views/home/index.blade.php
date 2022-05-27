@@ -34,77 +34,66 @@
 
 <body>
 <!-- ======= Inicio Seccion Quienes somos ======= -->
-<!--<section class="quienesSomos">
-    <div class="contenedorQuienesSomos">
-        <div class="text-center">
-            <h1 id="tituloQuienesSomos">¿Quienes sómos?</h1>
-            <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
-                Contamos con especialistas en todas las áreas</p>
-        </div>
-        <div class="contenedorTarjetas">
-           <div class="tarjeta" data-aos="fade-up" data-aos-delay="300">
-                <img src="assets/img/quienesSomos/calidad1.png " class="img-fluid" alt="">
-                <h4>Calidad garantizada</h4>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                <a href="#">Leer más</a>
-            </div>
-            <div class="tarjeta" data-aos="fade-up" data-aos-delay="300" >
-                <img src="assets/img/quienesSomos/espacioSeguro1.png "  class="img-fluid" alt="">
-                <h4>Espacios seguro</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                <a href="#">Leer más</a>
-            </div>
-            <div class="tarjeta" data-aos="fade-up" data-aos-delay="100">
-                <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
-                <h4>Psicologia humana</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                <a href="#">Leer más</a>
-            </div>
-        </div>
-
-
-    </div>
-
-</section>
--->
-<!-- ======= Inicio Seccion Quienes somos ======= -->
 <section id="quienesSomos" class="quienesSomos">
     <div class="container" data-aos="fade-up">
 
         <div class="tituloQuienesSomos">
-            <h2>¿Quiénes Somos?</h2>
+            <h2>¿Quiénes Somos?</h2><br>
             <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
-
+        <br>
+        <div class="subtituloQuienesSomos">
+            <h3>¿Qué nos diferencia de los demás??</h3>
+        </div>
+        <br>
         <div class="row">
             <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
-                <div class="icon-box">
+                <div class="tarjeta">
                     <img src="assets/img/quienesSomos/calidad1.png " class="img-fluid" alt="">
                     <h4>Calidad garantizada</h4>
-
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                    <a href="#">Leer más</a>
                 </div>
             </div>
 
             <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
-                <div class="icon-box">
+                <div class="tarjeta">
                     <img src="assets/img/quienesSomos/espacioSeguro1.png "  class="img-fluid" alt="">
                     <h4>Espacios seguro</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                    <a href="#">Leer más</a>
                 </div>
             </div>
 
             <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
-                <div class="icon-box">
+                <div class="tarjeta">
                     <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
                     <h4>Psicologia humana</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
-                    <a href="#">Leer más</a>
                 </div>
             </div>
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
+                <div class="tarjeta">
+                    <img src="assets/img/quienesSomos/resultados1.png " class="img-fluid" alt="">
+                    <h4>Resultados positivos</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="300">
+                <div class="tarjeta">
+                    <img src="assets/img/quienesSomos/psicologia2.png "  class="img-fluid" alt="">
+                    <h4>Psicologia humana</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="tarjeta">
+                    <img src="assets/img/quienesSomos/experiencia.png "  class="img-fluid" alt="">
+                    <h4>Experiencia gratificante</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid ea harum sapiente ullam. Accusamu</p>
+                </div>
+            </div>
+
+
 
         </div>
 

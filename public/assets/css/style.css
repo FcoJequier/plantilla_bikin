@@ -98,43 +98,49 @@
 */
 
 /*----------------------------------------------
-              Quienes somos 2 apoyado en servivicios
+              Quienes somos 2 apoyado en servicios
 ------------------------------------------------ */
 .quienesSomos{
-    background: #3B83AE;
+    background: #fefefe;
     padding-bottom: 80px;
 }
-.quienesSomos .tituloQuienesSomos h2, .quienesSomos .tituloQuienesSomos p {
-    color: #fff;
+.quienesSomos .tituloQuienesSomos h2 {
+    color: #3BA699;
+    text-align: center;
+    -webkit-text-stroke: 0.5px black;
+}
+.quienesSomos .tituloQuienesSomos p{
+    color: black;
     text-align: center;
 }
-.quienesSomos .tituloQuienesSomosh2::after {
+.quienesSomos .subtituloQuienesSomos h3{
+    color: #3BA699;
+    text-align: center;
+}
+
+
+.quienesSomos .tituloQuienesSomos h2::after {
     background: rgba(255, 255, 255, 0.2);
 }
-.quienesSomos .icon-box {
-    padding: 50px 30px;
+.quienesSomos .tarjeta {
+    padding: 35px 20px;
     position: relative;
     overflow: hidden;
-    background: #fff;
+    background: #f1f3ff;
     transition: all 0.3s;
-    border-radius: 5px;
+    border-radius: 10px;
     text-align: center;
+    margin-bottom: 20px;
 }
-.quienesSomos .icon-box:hover{
+.quienesSomos .tarjeta:hover{
     transform: translateY(-15px);
     box-shadow: 0 12px 16px rgba(0,0,0,0.2);
 }
-.quienesSomos .title {
-    font-weight: 700;
-    margin-bottom: 15px;
-    font-size: 18px;
-}
-.quienesSomos .title a {
-    color: #2d405f;
-    transition: 0.3s;
-}
-.quienesSomos .title a:hover {
-    color: #4e6fa4;
+.quienesSomos .tarjeta p{
+    padding: 0 1rem;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
 }
 .quienesSomos .description {
     font-size: 15px;
@@ -142,7 +148,7 @@
     margin-bottom: 0;
 }
 
-.row .icon-box img{
+.row .tarjeta img{
     width: 150px;
     height: 100px;
 }
