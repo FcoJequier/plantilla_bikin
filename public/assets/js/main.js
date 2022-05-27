@@ -203,7 +203,7 @@
   });
 
   /**
-   * Testimonials slider
+   * Slider para Psicólogos y Testimonios
    */
   new Swiper('.testimonials-slider', {
     speed: 600,
