@@ -218,6 +218,39 @@
     }
   });
 
+    /**
+     * Swiper Testimonios
+     */
+    new Swiper('.testimonio-carrusel', {
+        speed: 600,
+        loop: true,
+        autoplay: {
+            delay: 5000,
+            disableOnInteraction: false
+        },
+        slidesPerView: 'auto',
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        breakpoints: {
+            320: {
+                slidesPerView: 1,
+                spaceBetween: 20
+            },
+
+            1200: {
+                slidesPerView: 3,
+                spaceBetween: 20
+            },
+
+            2560: {
+                slidesPerView: 5,
+                spaceBetween: 20
+            }
+        }
+    });
+
   /**
    * Animation on scroll
    */

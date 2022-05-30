@@ -24,82 +24,6 @@
 /*----------------------------------------------
               Quienes somos
 ------------------------------------------------ */
-
-/*
-.quienesSomos{
-    display: flex;
-    flex-wrap: wrap;
-}
-#tituloQuienesSomos{
-
-    text-align: center;
-    color: #3BA699;
-}
-
-.contenedorQuienesSomos{
-    flex: 1;
-    padding: 25px;
-    min-width: 250px;
-    text-align: center;
-
-}
-.contenedorQuienesSomos:first-child{/
-    flex: 1;
-    padding: 100px;
-    background-color: red ;
-    margin:auto;
-
-}
-.contenedorTarjetas{
-    width: 100%;
-    max-width: initial;
-    height: 1000px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 10px;
-    background-color:   #FFBB00;
-    overflow: hidden;
-}
-.contenedorTarjetas .tarjeta{
-    width: 350px;
-    height: 400px;
-    border-radius: 8px;
-    box-shadow: 0 2px 2px rgba(0,0,0,0.2);
-    overflow: hidden;
-    margin: 10px;
-    text-align: center;
-    transition: all 0.25s;
-    background-color: #fefefe;
-}
-.contenedorTarjetas .tarjeta:hover{
-    transform: translateY(-15px);
-    box-shadow: 0 12px 16px rgba(0,0,0,0.2);
-}
-.contenedorTarjetas .tarjeta img{
-    width: 250px;
-    height: 180px;
-}
-.contenedorTarjetas .tarjeta h4{
-    font-weight: 600;
-    font-family: Roboto;
-}
-.contenedorTarjetas .tarjeta p{
-    padding: 0 1rem;
-    font-size: 16px;
-    font-weight: 300;
-    text-align: center;
-}
-.contenedorTarjetas .tarjeta a{
-    font-weight: 500;
-    text-decoration: none;
-    color:    #3B83AE   ;
-}
-*/
-
-/*----------------------------------------------
-              Quienes somos 2 apoyado en servicios
------------------------------------------------- */
 .quienesSomos{
     background: #fefefe;
     padding-bottom: 80px;
@@ -209,7 +133,6 @@
 .psicologos .psicologos-envolver:hover .psicologos-info {
     opacity: 1;
 }
-
 .swiper-button-prev, .swiper-button-next {
     color: #484AF0;
 }
@@ -279,6 +202,129 @@
 
 
 
+
+/*--------------------------------------------------------------
+# Testimonials
+--------------------------------------------------------------*/
+.color-testimonio {
+    background-color:    #ffffff ;
+}
+.testimonios .testimonials-carousel, .testimonios .testimonials-slider {
+    overflow: hidden;
+}
+.testimonios .testimonial-item {   /*Contenedor principal de los testimonios*/
+    box-sizing: content-box;
+    padding: 30px 30px 0 30px;
+    margin: 30px 15px;
+    text-align: center;
+    min-height: 350px;
+    box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+    background:   white       ;
+    border-style: solid   ;
+    border-color:  #3B83AE  ;;
+
+}
+.testimonios .testimonial-item .testimonial-img {
+    width: 90px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    margin: 0 auto;
+
+}
+
+.testimonial-img {
+
+
+    bottom:100px;
+    display: block;
+    margin: 0 auto;
+    text-align : center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    left: 170px;
+}
+.imagenResponsive{
+    bottom: 120px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+}
+
+.textoReponsive {
+
+    bottom: 50px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+
+}
+
+.testimonios .testimonial-item h3 { /*Nombre de los testimonios*/
+
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+    color:  #3B83AE ;
+    left: 0px;
+    bottom: 50px;
+
+    left: 150px;
+
+    /*  justify-content: center;
+      align-items: center;
+      text-align: center;*/
+
+}
+
+
+
+.testimonios .testimonial-item h4 {
+    font-size: 14px;
+    color: #999;
+    margin: 0;
+}
+.testimonios .testimonial-item .quote-icon-left, .testimonios .testimonial-item .quote-icon-right {
+    color:  #3B83AE  ;
+    font-size: 26px;
+}
+.testimonios .testimonial-item .quote-icon-left {
+    display: inline-block;
+    left: -5px;
+    position: relative;
+}
+.testimonios .testimonial-item .quote-icon-right {
+    display: inline-block;
+    right: -5px;
+    position: relative;
+    top: 10px;
+}
+.testimonios .testimonial-item p {
+    font-style: italic;
+    margin: 0 auto 15px auto;
+}
+.testimonios .swiper-pagination {
+    margin-top: 20px;
+    position: relative;
+}
+.testimonios .swiper-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #3b4ef8;
+}
+.testimonios .swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #FFBB00;
+}
+
+#swiper-button-next-testimonial {
+    margin-right: 10px;
+}
+
+#swiper-button-prev-testimonial {
+    margin-left: 10px;
+}
 
 
 
