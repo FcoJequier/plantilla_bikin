@@ -145,11 +145,11 @@
     overflow: hidden;
 }
 
-#swiper-button-next-testimonial {
+#swiper-button-next-testimonios {
     margin-right: 10px;
 }
 
-#swiper-button-prev-testimonial {
+#swiper-button-prev-testimonios {
     margin-left: 10px;
 }
 
@@ -204,15 +204,24 @@
 
 
 /*--------------------------------------------------------------
-# Testimonials
+# Testimonios
 --------------------------------------------------------------*/
 .color-testimonio {
     background-color:    #ffffff ;
 }
-.testimonios .testimonials-carousel, .testimonios .testimonials-slider {
+.testimonios .tituloTestimonios h1{
+    color: #3BA699;
+    text-align: center;
+    -webkit-text-stroke: 0.5px black;
+}
+.testimonios .tituloTestimonios p{
+    color: black;
+    text-align: center;
+}
+.testimonios .testimonials-carousel, .testimonios .testimonios-slider {
     overflow: hidden;
 }
-.testimonios .testimonial-item {   /*Contenedor principal de los testimonios*/
+.testimonios .testimonio-item {   /*Contenedor principal de los testimonios*/
     box-sizing: content-box;
     padding: 30px 30px 0 30px;
     margin: 30px 15px;
@@ -221,20 +230,18 @@
     box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
     background:   white       ;
     border-style: solid   ;
-    border-color:  #3B83AE  ;;
+    border-color:  #3B83AE  ;
+    border-radius: 15px;
 
 }
-.testimonios .testimonial-item .testimonial-img {
+.testimonios .testimonio-item .testimonios-img {
     width: 90px;
     border-radius: 50%;
     border: 4px solid #fff;
     margin: 0 auto;
-
 }
 
-.testimonial-img {
-
-
+.testimonios-img {
     bottom:100px;
     display: block;
     margin: 0 auto;
@@ -260,46 +267,39 @@
 
 }
 
-.testimonios .testimonial-item h3 { /*Nombre de los testimonios*/
-
+.testimonios .testimonio-item h3 { /*Nombre de los testimonios*/
     font-size: 18px;
     font-weight: bold;
     margin: 10px 0 5px 0;
     color:  #3B83AE ;
     left: 0px;
     bottom: 50px;
-
     left: 150px;
-
-    /*  justify-content: center;
-      align-items: center;
-      text-align: center;*/
-
 }
 
 
 
-.testimonios .testimonial-item h4 {
+.testimonios .testimonio-item h4 {
     font-size: 14px;
     color: #999;
     margin: 0;
 }
-.testimonios .testimonial-item .quote-icon-left, .testimonios .testimonial-item .quote-icon-right {
+.testimonios .testimonio-item .quote-icon-left, .testimonios .testimonio-item .quote-icon-right {
     color:  #3B83AE  ;
     font-size: 26px;
 }
-.testimonios .testimonial-item .quote-icon-left {
+.testimonios .testimonio-item .quote-icon-left {
     display: inline-block;
     left: -5px;
     position: relative;
 }
-.testimonios .testimonial-item .quote-icon-right {
+.testimonios .testimonio-item .quote-icon-right {
     display: inline-block;
     right: -5px;
     position: relative;
     top: 10px;
 }
-.testimonios .testimonial-item p {
+.testimonios .testimonio-item p {
     font-style: italic;
     margin: 0 auto 15px auto;
 }
@@ -318,19 +318,13 @@
     background-color: #FFBB00;
 }
 
-#swiper-button-next-testimonial {
+#swiper-button-next-testimonios {
     margin-right: 10px;
 }
 
-#swiper-button-prev-testimonial {
+#swiper-button-prev-testimonios {
     margin-left: 10px;
 }
-
-
-
-
-
-
 /*----------------------------------------------
                 MyBot
 ------------------------------------------------ */

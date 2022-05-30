@@ -277,13 +277,13 @@
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
 
-<!-- ======= Testimonials Section ======= -->
+<!-- ======= Sección testimonios ======= -->
 <section id="testimonios" class="testimonios color-testimonio ">
     <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-
-            <h2>Testimonios</h2>
+        <div class="tituloTestimonios">
+            <h1>Testimonios</h1><br>
+            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. </p>
         </div>
 
         <div class="row">
@@ -291,7 +291,7 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide ">
-                        <div class="testimonial-item ">
+                        <div class="testimonio-item ">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left "></i>
                                 "Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré."
@@ -304,15 +304,15 @@
 
                             <div class="imagenResponsive">
 
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img  "  alt="">
+                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonios-img  " alt="">
 
                             </div>
 
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
-                        <div class="testimonial-item border-color" >
+                        <div class="testimonio-item border-color" >
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                                 Muy empática, comprensiva y humana, hace preguntas y da libros on line para leer y artículos, también tareas. La recomendaría de todas maneras
@@ -323,21 +323,16 @@
                             </p>
 
                             <div class="imagenResponsive">
-
-                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-
+                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonios-img" alt="">
                             </div>
-
-
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
-                        <div class="testimonial-item">
+                        <div class="testimonio-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                                 Me ha ayudado muchísimo, he logrado manejar de mejor manera las crisis de angustia que tenía
-
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             <div class="textoReponsive">
                                 <h3 >Macarena Silva</h3>
@@ -345,18 +340,13 @@
                             </p>
 
                             <div class="imagenResponsive">
-
-                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-
+                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonios-img" alt="">
                             </div>
-
-
-
                         </div>
-                    </div><!-- End testimonial item -->
+                    </div>
 
                     <div class="swiper-slide">
-                        <div class="testimonial-item">
+                        <div class="testimonio-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                                 Me gustó mucho la consulta, superó mis expectativas. La professional es excelente, me ayudó bastante y me sentí muy cómodo. continuaré.
@@ -367,14 +357,15 @@
                             </p>
 
                             <div class="imagenResponsive">
-                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonios-img" alt="">
                             </div>
 
                         </div>
 
-                    </div><!-- End testimonial item -->
+                    </div>
+
                     <div class="swiper-slide">
-                        <div class="testimonial-item">
+                        <div class="testimonio-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                                 Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
@@ -383,25 +374,16 @@
                                 <h3 >Jhon Larson</h3>
                             </div>
                             </p>
-
                             <div class="imagenResponsive">
-
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-
+                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonios-img" alt="">
                             </div>
-
-
-
                         </div>
-                    </div><!-- End testimonial item -->
-
-
+                    </div>
                 </div>
-                <!-- Navigation buttons -->
-                <div id="swiper-button-prev-testimonial" class="swiper-button-prev"></div>
-                <div id="swiper-button-next-testimonial" class="swiper-button-next"></div>
+                <!-- Botones de navegación-->
+                <div id="swiper-button-prev-testimonios" class="swiper-button-prev"></div>
+                <div id="swiper-button-next-testimonios" class="swiper-button-next"></div>
             </div>
-
         </div>
     </div>
 </section>
