@@ -304,7 +304,7 @@
 
                             <div class="imagenResponsive">
 
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonios-img  " alt="">
+                                <img src="assets/img/testimonios/testimonio1.jpg" class="testimonios-img  " alt="">
 
                             </div>
 
@@ -323,7 +323,7 @@
                             </p>
 
                             <div class="imagenResponsive">
-                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonios-img" alt="">
+                                <img src="assets/img/testimonios/testimonio2.jpg" class="testimonios-img  " alt="">
                             </div>
                         </div>
                     </div>
@@ -340,7 +340,7 @@
                             </p>
 
                             <div class="imagenResponsive">
-                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonios-img" alt="">
+                                <img src="assets/img/testimonios/testimonio3.jpg" class="testimonios-img  " alt="">
                             </div>
                         </div>
                     </div>
@@ -357,7 +357,7 @@
                             </p>
 
                             <div class="imagenResponsive">
-                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonios-img" alt="">
+                                <img src="assets/img/testimonios/testimonio4.jpg" class="testimonios-img  " alt="">
                             </div>
 
                         </div>
@@ -368,14 +368,14 @@
                         <div class="testimonio-item">
                             <p>
                                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt.
                                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             <div class="textoReponsive">
                                 <h3 >Jhon Larson</h3>
                             </div>
                             </p>
                             <div class="imagenResponsive">
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonios-img" alt="">
+                                <img src="assets/img/testimonios/testimonio5.jpg" class="testimonios-img  " alt="">
                             </div>
                         </div>
                     </div>
