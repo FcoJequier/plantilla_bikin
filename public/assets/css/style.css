@@ -246,15 +246,12 @@
     left: 0px;
     right: 0px;
 }
-
 .textoReponsive {
     bottom: 50px;
     position: absolute;
     left: 0px;
     right: 0px;
-
 }
-
 .testimonios .testimonio-item h3 { /*Nombre de los testimonios*/
     font-size: 18px;
     font-weight: bold;
@@ -264,9 +261,6 @@
     bottom: 50px;
     left: 150px;
 }
-
-
-
 .testimonios .testimonio-item h4 {
     font-size: 14px;
     color: #999;

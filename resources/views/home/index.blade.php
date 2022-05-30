@@ -289,7 +289,6 @@
         <div class="row">
             <div class="testimonio-carrusel swiper " data-aos="fade-up" data-aos-delay="100" >
                 <div class="swiper-wrapper">
-
                     <div class="swiper-slide ">
                         <div class="testimonio-item ">
                             <p>
@@ -299,15 +298,10 @@
                             <div class="textoReponsive">
                                 <h3 >Jhon Cena</h3>
                             </div>
-
                             </p>
-
                             <div class="imagenResponsive">
-
                                 <img src="assets/img/testimonios/testimonio1.jpg" class="testimonios-img  " alt="">
-
                             </div>
-
                         </div>
                     </div>
 
@@ -321,13 +315,11 @@
                                 <h3 >Sara Wilson</h3>
                             </div>
                             </p>
-
                             <div class="imagenResponsive">
                                 <img src="assets/img/testimonios/testimonio2.jpg" class="testimonios-img  " alt="">
                             </div>
                         </div>
                     </div>
-
                     <div class="swiper-slide">
                         <div class="testimonio-item">
                             <p>
@@ -338,13 +330,11 @@
                                 <h3 >Macarena Silva</h3>
                             </div>
                             </p>
-
                             <div class="imagenResponsive">
                                 <img src="assets/img/testimonios/testimonio3.jpg" class="testimonios-img  " alt="">
                             </div>
                         </div>
                     </div>
-
                     <div class="swiper-slide">
                         <div class="testimonio-item">
                             <p>
@@ -355,15 +345,11 @@
                                 <h3 >Matt Brandom</h3>
                             </div>
                             </p>
-
                             <div class="imagenResponsive">
                                 <img src="assets/img/testimonios/testimonio4.jpg" class="testimonios-img  " alt="">
                             </div>
-
                         </div>
-
                     </div>
-
                     <div class="swiper-slide">
                         <div class="testimonio-item">
                             <p>
