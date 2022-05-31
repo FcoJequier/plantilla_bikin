@@ -43,7 +43,7 @@
 --------------------------------------------------------------*/
 
 .separacionOla {
-    height: 150px;
+    height: 100px;
     overflow: hidden;
     fill: #484AF0;
     margin-top: -2px;
@@ -53,32 +53,44 @@
 .contenedorSeparacion {
     margin-top: 25px;
     margin-bottom: 25px;
-
-
 }
 
 #separacion2 {
     transform: scaleX(-1);
 }
 
+#separacionQuienesSomos{
+    margin-bottom: -5px;
+}
+#separacionQuienesSomos2 {
+    margin-top: -5px;
+}
+
+#separacionTerapias {
+    margin-bottom: -5px;
+}
+
+#separacionTerapias2 {
+    margin-top: -5px;
+}
+
 /*----------------------------------------------
 #Quienes somos
 ------------------------------------------------ */
 .quienesSomos{
-    background: #fefefe;
+    background: rgba(71, 74, 240);
     padding-bottom: 80px;
 }
 .quienesSomos .tituloQuienesSomos h2 {
-    color: #3BA699;
+    color: #FFFFFF;
     text-align: center;
-    -webkit-text-stroke: 0.5px black;
 }
 .quienesSomos .tituloQuienesSomos p{
-    color: black;
+    color: #FFFFFF;
     text-align: center;
 }
 .quienesSomos .subtituloQuienesSomos h3{
-    color: #3BA699;
+    color: #FFFFFF;
     text-align: center;
 }
 .quienesSomos .tituloQuienesSomos h2::after {
@@ -120,7 +132,7 @@
 --------------------------------------------------------------*/
 
 .psicologos {
-    margin: 150px 60px 150px 60px;
+    margin: 25px 60px 150px 60px;
 }
 
 .psicologos .psicologos-envolver {
@@ -143,6 +155,7 @@
 }
 .psicologos .psicologos-envolver img {
     transition: all ease-in-out 0.3s;
+
 }
 .psicologos .psicologos-envolver .psicologos-info {
     opacity: 0;
@@ -173,7 +186,7 @@
     color: #484AF0;
 }
 
-#tituloPsicologos {
+#psicologosTitulo {
     color: #3BA699;
 }
 
@@ -182,21 +195,33 @@
 }
 
 #swiper-button-next-testimonios {
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 #swiper-button-prev-testimonios {
-    margin-left: 10px;
+    margin-left: 20px;
+}
+
+.swiper-slide {
+    padding: 10px;
 }
 
 
 
 /*<-------------------Terapias Psicologicas------------------>*/
-#terapias h2 {
-    text-align: center;
+
+#terapias{
+    background: rgba(71, 74, 240);
 }
-#terapias p {
+
+#terapias h1 {
     text-align: center;
+    color: #FFFFFF;
+}
+#terapias h5 {
+    text-align: center;
+    color: #FFFFFF;
+    margin: 10px 0 30px 0;
 }
 .listado-terapias {
     display: grid;
@@ -280,7 +305,6 @@ body{
 .testimonios .tituloTestimonios h1{
     color: #3BA699;
     text-align: center;
-    -webkit-text-stroke: 0.5px black;
 }
 .testimonios .tituloTestimonios p{
     color: black;

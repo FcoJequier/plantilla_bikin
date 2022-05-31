@@ -63,19 +63,25 @@
 <section class="imagen-hero">
 <div class="contenedor flex">
     <div>
-        <img src="../assets/img/imagen-hero/sinfondo.png">
+        <img src="../assets/img/terapia-psicologo.jpg" style="max-width: 900px">
         <div></div>
     </div>
 </div>
 </section>
 
 
+
+<!-- ======= Separacion en Ola======= -->
+<div id="separacionQuienesSomos" class="contenedorSeparacion">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
+            <path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+</div>
 <!-- ======= Inicio Seccion Quienes somos ======= -->
 
 <section id="quienesSomos" class="quienesSomos">
     <div class="container" data-aos="fade-up">
         <div class="tituloQuienesSomos">
-            <h2>¿Quiénes Somos?</h2><br>
+            <h2>SOBRE NOSOTROS</h2><br>
             <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. </p>
         </div>
         <br>
@@ -135,9 +141,7 @@
 
 
 <!-- ======= Separacion en Ola======= -->
-<div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
-            <path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+<div id="separacionQuienesSomos2" class="contenedorSeparacion">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
             <path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
@@ -147,7 +151,7 @@
     <div id="contenedorPsicologos" class="container-fluid" data-aos="fade-up">
 
         <div class="text-center">
-            <h1 id="tituloPsicologos">Nuestros Psicólogos</h1>
+            <h1 id="psicologosTitulo">Nuestros Psicólogos</h1>
             <p>Somos un Equipo de Profesionales orientados a tu Bienestar Emocional <br>
                 Contamos con especialistas en todas las áreas</p>
         </div>
@@ -229,16 +233,14 @@
 <!-- Fin Seccion Psicologos -->
 
 
-
-<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
+<div id="separacionTerapias" class="contenedorSeparacion">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
 
 <!-- ======= Seccion terapias======= -->
-<section id="terapias" class="categorias-terapias" data-aos="fade-up">
-    <h2>Terapias Psicologicas</h2>
-    <p>Elige la terapia que necesites</p>
+<section id="terapias" class="categorias-terapias">
+    <h1>Servicios y Terapias</h1>
+    <h5>Elige la terapia que necesites</h5>
     <div class="listado-terapias">
 
     <a href="#" class="contenedor terapia1 tarjeta">
@@ -302,8 +304,7 @@
 </section>
 
 <!-- ======= Separacion en Ola======= -->
-<div id="separacion1" class="contenedorSeparacion" data-aos="fade-zoom-in">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+<div id="separacionTerapias2" class="contenedorSeparacion">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
 
