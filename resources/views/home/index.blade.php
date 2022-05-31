@@ -437,49 +437,50 @@
         <div class="contenedor-preguntas activo" data-categoria="metodos-pago">
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿Que metodos de pago disponibles tienen? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿Que plazos tienen para poder pagar? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
         <!--Preguntas de entregas-->
         <div class="contenedor-preguntas" data-categoria="entregas">
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿el huevo o la gallina? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿pregunta? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
         <!--Preguntas de seguridad-->
         <div class="contenedor-preguntas" data-categoria="seguridad">
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿alguien sabe de hacks? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿Que tan segur es xd? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
-        <!--Preguntas de entregas-->
+        <!--Preguntas acerca de la cuenta-->
         <div class="contenedor-preguntas" data-categoria="cuenta">
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿cual es el peso de una hormiga?<img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus corporis enim excepturi nemo neque quod tempora ut voluptatum? Aperiam architecto deleniti doloribus ea enim eveniet nam quas quo repellendus.</p>
             </div>
             <div class="contenedor-pregunta">
                 <p class="preguntaF">¿concces a rodrigo? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
-                <p class="respuestaF"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
+                <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
 
     </div>
     <script src="assets/js/preguntasFrecuentes/categorias.js"></script>
+    <script src="assets/js/preguntasFrecuentes/preguntas.js"></script>
 </section>
 
 <!-- MyBot -->

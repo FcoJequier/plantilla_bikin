@@ -380,7 +380,7 @@ body{
                 Preguntas Frecuentes
 ------------------------------------------------ */
 :root{
-    --primario: #e23939;
+    --primario:     #3B83AE;
     --gris-claro: #b8b8b8;
     --sombra: 0 0 13px 0 rgba(185,185,185, .25);
 }
@@ -473,14 +473,14 @@ body{
 .preguntaF img{
     width: 14px;
 }
-.respuestaF{
+.respuesta{
     color: #808080;
     line-height: 30px;
     max-height: 0;
     opacity: 0;
     transition: .3s ease all;
 }
-.contenedor-pregunta.activa .respuestaF {
+.contenedor-pregunta.activa .respuesta {
     opacity: 1;
     margin-top: 20px;
 }
