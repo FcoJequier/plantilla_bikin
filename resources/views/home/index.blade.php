@@ -263,14 +263,14 @@
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/angustia.jpg">
+                <div class="titulo-terapia">Angustia</div>
             </div>
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/familia.jpg">
+                <div class="titulo-terapia">Terapia familiar</div>
             </div>
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
@@ -293,14 +293,14 @@
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/depresion.jpg">
+                <div class="titulo-terapia">Depresión</div>
             </div>
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/terapia-parejas.jpg">
+                <div class="titulo-terapia">Parejas</div>
             </div>
         </a>
 

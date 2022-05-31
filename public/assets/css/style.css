@@ -629,10 +629,9 @@ body{
     margin: 40px auto;
 }
 .tituloPreguntas{
-    color: #3a3a3a;
-    font-weight: 700;
-    text-align: center;
     margin: 60px 0;
+    color: #3BA699;
+    text-align: center;
 }
 .categoriasPreguntas {
     display: grid;
