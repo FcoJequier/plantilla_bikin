@@ -36,27 +36,32 @@
 
 <body>
 
-<!-- ======= Inicio Seccion NavBar ======= -->
+<header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
 
-<section id="header" class="">
-    <div class="container justify-content-between">
+        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h1>
 
-<ul class="nav justify-content-center">
-    <li class="nav-item">
-        <a class="nav-link active" href="#">Active</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link disabled">Disabled</a>
-    </li>
-</ul>
+        <nav id="navbar" class="navbar">
+            <ul>
+                <li><a class="nav-link" href="#">Inicio</a></li>
+                <li><a class="nav-link" href="#about">Quiénes somos</a></li>
+                <li><a class="nav-link" href="#portfolio">Psicólogos</a></li>
+                <li><a class="nav-link" href="#clients">Convenios</a></li>
+                <li><a class="nav-link" href="#services">Servicios</a></li>
+                <li><a class="nav-link" href="#testimonials">Testimonios</a></li>
+                <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
+                    <ul>
+                        <li><a href="#">Ingresar</a></li>
+                        <li><a href="#">Registrarse</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+
     </div>
-</section>
+</header><!-- End Header -->
+
 
 <!-- ======= Imagen Hero ======= -->
 
@@ -238,60 +243,61 @@
 </div>
 
 <!-- ======= Seccion terapias======= -->
-<section id="terapias" class="categorias-terapias">
+<section id="terapias" class="categorias-terapias" data-aos="fade-up" data-aos-delay="100">
     <h1>Servicios y Terapias</h1>
     <h5>Elige la terapia que necesites</h5>
     <div class="listado-terapias">
 
-    <a href="#" class="contenedor terapia1 tarjeta">
+    <a href="#" class="contenedor terapia1 tarjeta-testimonio">
         <div class="contenedor-item">
             <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+            <div class="titulo-terapia">Modalidad<br> Presencial</div>
             <div class="titulo-terapia btn">Terapia</div>
         </div>
     </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <div class="titulo-terapia">Modalidad <br>Online</div>
+            </div>
+        </a>
+        <a href="#" class="contenedor tarjeta-testimonio">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <div class="titulo-terapia">Modalidad <br>Domiciliaria</div>
+            </div>
+        </a>
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta">
+        <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
                 <div class="titulo-terapia">Terapia</div>
@@ -478,6 +484,66 @@
     <script src="assets/js/preguntasFrecuentes/preguntas.js"></script>
 </section>
 
+<!-- ======= Footer ======= -->
+
+<footer id="footer">
+
+    <div class="footer-top">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+
+                <div class="col-lg-3 col-md-6 footer-contact">
+
+                    <h4>DevLef</h4>
+                    <p class="color-gris-1 mb-4">
+                        Somos una consulta de psicología online donde podrás acceder a un servicio de psicología profesional, de calidad y orientado a resultados.
+                    </p>
+                </div>
+
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Secciones</h4>
+                    <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#about">Quiénes somos</a></li>
+                        <li><i class="bx bx-chevron-right" ></i> <a href="#portfolio">Nuestros Psicólogos</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#clients">Convenios</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#services">Servicios</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#testimonials">Testimonios</a></li>
+
+                    </ul>
+                </div>
+
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Contacto</h4>
+                    <ul>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#">  <strong >Teléfono:</strong> +1 5589 55488 55</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="#"><strong>Email:</strong> info@example.com</a></li>
+                        <br>
+                        <div class="social-links text-capitalize text-md-right pt-3 pt-md-0">
+                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="color-footer" >
+
+        <div class="container py-3">
+
+            <div class="me-md-auto text-center text-md-start ">
+
+                <div class="d-flex align-items-center justify-content-center" >
+                    <div>
+                        <strong class="logo1 " style="color: white"   ><img src="assets/img/logo.png" alt="" class="img-fluid"> ©2022 Todos los derechos reservados Psicólogos Temuco </strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
 <!-- MyBot -->
 <mybot></mybot>
 
@@ -495,6 +561,7 @@
     <!--JS-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
+
 
 </body>
 
