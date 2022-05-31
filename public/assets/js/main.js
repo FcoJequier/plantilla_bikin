@@ -192,7 +192,7 @@
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 5000,
+      delay: 7000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -201,10 +201,14 @@
           prevEl: '.swiper-button-prev',
       },
     breakpoints: {
-      320: {
+      768: {
         slidesPerView: 1,
         spaceBetween: 20
       },
+        1024: {
+            slidesPerView: 2,
+            spaceBetween: 10
+        },
 
       1200: {
         slidesPerView: 3,
@@ -213,7 +217,7 @@
 
         2560: {
             slidesPerView: 5,
-            spaceBetween: 20
+            spaceBetween: 5
         }
     }
   });
@@ -238,6 +242,10 @@
                 slidesPerView: 1,
                 spaceBetween: 20
             },
+            1024: {
+                slidesPerView: 2,
+                spaceBetween: 10
+            },
 
             1200: {
                 slidesPerView: 3,
@@ -245,7 +253,7 @@
             },
 
             2560: {
-                slidesPerView: 5,
+                slidesPerView: 4,
                 spaceBetween: 20
             }
         }
