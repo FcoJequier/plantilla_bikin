@@ -437,10 +437,12 @@ body{
     border: 2px solid transparent;
     transition: .3s ease all;
 }
+
 .categoria:hover{
     box-shadow: var(--sombra);
-    color: #000000;
+    color:  #3B83AE;
 }
+
 .categoria:hover path{
  fill: var(--primario);
 }
@@ -456,7 +458,7 @@ body{
 
 .categoria.activa{
     border: 2px solid var(--primario);
-    color:#000000 ;
+    color:  #3B83AE; ;
 }
 .categoria.activa path{
     fill: var(--primario);
@@ -493,6 +495,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    color:  #3B83AE;
 }
 .preguntaF img{
     width: 14px;
