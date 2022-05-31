@@ -37,9 +37,9 @@
 <body>
 
 <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center justify-content-between">
+    <div class="margen-header d-flex justify-content-between">
 
-        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h1>
+        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid">Psicólogos Temuco</a></h1>
 
         <nav id="navbar" class="navbar">
             <ul>
@@ -60,7 +60,8 @@
         </nav><!-- .navbar -->
 
     </div>
-</header><!-- End Header -->
+</header>
+<!-- End Header -->
 
 
 <!-- ======= Imagen Hero ======= -->
@@ -257,19 +258,19 @@
     </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen00.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen8.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
         <a href="#" class="contenedor tarjeta-testimonio">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen5.jpg">
                 <div class="titulo-terapia">Terapia</div>
             </div>
         </a>
