@@ -3,6 +3,7 @@
 --------------------------------------------------------------*/
 #header {
     background: #3BA699;
+    border-bottom: 2px solid #eceefe;
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
@@ -18,13 +19,13 @@
 }
 #header .logo a {
     color: #ffffff;
+    text-decoration:none;
 }
 #header .logo img {
     max-height: 40px;
 }
 .logo1{
     font-size: 15px;
-
     line-height: 1;
     font-weight: 600;
     letter-spacing: 1px;
@@ -34,10 +35,10 @@
 .logo1 img {
     max-height: 40px;
 }
-#header .logo a {
-    color: #ffffff;
-
+.margen-header{
+    padding: 0 100px
 }
+
 
 
 /*--------------------------------------------------------------
