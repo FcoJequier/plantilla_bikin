@@ -452,18 +452,18 @@
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
             <div class="contenedor-pregunta">
-                <p class="preguntaF">¿pregunta? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
+                <p class="preguntaF">¿pregunta, piensa en una? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
         <!--Preguntas de seguridad-->
         <div class="contenedor-preguntas" data-categoria="seguridad">
             <div class="contenedor-pregunta">
-                <p class="preguntaF">¿alguien sabe de hacks? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
+                <p class="preguntaF">¿Son confiables sus plataformas? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
             <div class="contenedor-pregunta">
-                <p class="preguntaF">¿Que tan segur es xd? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
+                <p class="preguntaF">¿Que tan seguro? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
@@ -474,7 +474,7 @@
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus corporis enim excepturi nemo neque quod tempora ut voluptatum? Aperiam architecto deleniti doloribus ea enim eveniet nam quas quo repellendus.</p>
             </div>
             <div class="contenedor-pregunta">
-                <p class="preguntaF">¿concces a rodrigo? <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
+                <p class="preguntaF">¿como puedo recuperar mi cuenta? olvidé mi contraseña <img src="assets/img/preguntasFrecuentes/suma.svg" alt="abrir respuesta"></p>
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
