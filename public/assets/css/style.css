@@ -36,9 +36,7 @@
 .logo1 img {
     max-height: 40px;
 }
-.margen-header{
-    padding: 0 100px
-}
+
 
 
 
@@ -148,12 +146,7 @@
         left: -100%;
     }
 }
-.convenios img {
-    max-width: 60%;
-    transition: all 0.4s ease-in-out;
-    display: inline-block;
-    padding: 15px 0;
-}
+
 
 /**
 * Mobile Navigation
@@ -291,6 +284,7 @@
     background: #ffffff;
     padding: 15px 0;
     text-align: center;
+    margin: 15px 0;
 }
 hr {
     background-color: #3B83AE;
@@ -306,6 +300,14 @@ hr {
         max-width: 40%;
     }
 }
+
+.convenios img {
+    max-width: 60%;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    padding: 15px 0;
+}
+
 /*----------------------------------------------
 #Quienes somos
 ------------------------------------------------ */
@@ -373,6 +375,7 @@ hr {
     overflow: hidden;
     z-index: 1;
     background: rgba(45, 64, 95, 0);
+    border-radius: 15px;
 }
 .psicologos .psicologos-envolver::before {
     content: "";
@@ -384,9 +387,11 @@ hr {
     transition: all ease-in-out 0.3s;
     z-index: 2;
     opacity: 0;
+    border-radius: 15px;
 }
 .psicologos .psicologos-envolver img {
     transition: all ease-in-out 0.3s;
+    border-radius: 15px;
 
 }
 .psicologos .psicologos-envolver .psicologos-info {
@@ -403,6 +408,7 @@ hr {
     justify-content: flex-end;
     align-items: flex-start;
     padding: 20px;
+    border-radius: 15px;
 }
 
 .psicologos .psicologos-envolver:hover::before {
@@ -414,6 +420,11 @@ hr {
 .psicologos .psicologos-envolver:hover .psicologos-info {
     opacity: 1;
 }
+
+.item-psicologo{
+    border-radius: 15px;
+}
+
 .swiper-button-prev, .swiper-button-next {
     color: #484AF0;
 }
@@ -677,7 +688,7 @@ body{
 }
 .tituloPreguntas{
     padding: 0px 0 40px 0; /*-------Modifique----- */
-    color: #3BA699;
+    color: #FFFFFF;
     text-align: center;
 }
 .categoriasPreguntas {
@@ -959,14 +970,6 @@ body{
     overflow: hidden;
     fill: #484AF0;
     margin-top: -2px;
-}
-
-.contenedorSeparacion {
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-.contenedorSeparacionTestimonio {  /*-------Modifique----- */
-    margin-top: 25px;
 }
 
 #separacion2 {

@@ -38,7 +38,7 @@
 <body>
 
 <header id="header" class="fixed-top">
-    <div class="margen-header d-flex justify-content-between">
+    <div class="container d-flex align-items-center justify-content-between">
 
         <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid">Psicólogos Temuco</a></h1>
 
@@ -86,7 +86,7 @@
 <section id="convenios" class="convenios">
     <div class="container" data-aos="zoom-in">
         <div class="section-title">
-            <h1 class="convenios">Nuestros profesionales atienden con</h1>
+            <h1 class="conveniosTitulo">Nuestros profesionales atienden con</h1>
         </div>
 
         <div class="row">
@@ -108,12 +108,12 @@
 </section>
 <!-- Fin Seccion Convenios -->
 
-<!-- ======= Separacion en Ola======= -->
-<div id="separacionQuienesSomos" class="contenedorSeparacion">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
-            <path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
-</div>
+
 <!-- ======= Inicio Seccion Quienes somos ======= -->
+<!-- ======= Separacion en Ola======= -->
+<div id="separacionQuienesSomos">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+</div>
 
 <section id="quienesSomos" class="quienesSomos">
     <div class="container" data-aos="fade-up">
@@ -169,14 +169,12 @@
         </div>
     </div>
 </section>
+<!-- ======= Separacion en Ola======= -->
+<div id="separacionQuienesSomos2">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
+</div>
 <!-- ======= Fin seccion Quienes somos ======= -->
 
-
-<!-- ======= Separacion en Ola======= -->
-<div id="separacionQuienesSomos2" class="contenedorSeparacion">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;">
-            <path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
-</div>
 
 <!-- ======= Inicio Seccion Psicologos ======= -->
 <section id="psicologos" class="psicologos">
@@ -193,7 +191,7 @@
 
                 <!-- Inicio item psicologos -->
                 <div class="swiper-slide d-flex align-items-center justify-content-center">
-                    <div class="testimonial-item">
+                    <div class="item-psicologo">
                         <div class="psicologos-envolver">
                             <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                             <div class="psicologos-info">
@@ -206,7 +204,7 @@
 
                 <!-- Inicio item psicologos -->
                 <div class="swiper-slide d-flex align-items-center justify-content-center">
-                    <div class="testimonial-item">
+                    <div class="item-psicologo">
                         <div class="psicologos-envolver">
                             <img src="assets/img/team/team-2.jpg" class="img-fluid w-auto" alt="">
                             <div class="psicologos-info">
@@ -219,7 +217,7 @@
 
                 <!-- Inicio item psicologos -->
                 <div class="swiper-slide d-flex align-items-center justify-content-center">
-                    <div class="testimonial-item">
+                    <div class="item-psicologo">
                         <div class="psicologos-envolver">
                             <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                             <div class="psicologos-info">
@@ -232,7 +230,7 @@
 
                 <!-- Inicio item psicologos -->
                 <div class="swiper-slide d-flex align-items-center justify-content-center">
-                    <div class="testimonial-item">
+                    <div class="item-psicologo">
                         <div class="psicologos-envolver">
                             <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
                             <div class="psicologos-info">
@@ -245,7 +243,7 @@
 
                 <!-- Inicio item psicologos -->
                 <div class="swiper-slide d-flex align-items-center justify-content-center">
-                    <div class="testimonial-item">
+                    <div class="item-psicologo">
                         <div class="psicologos-envolver">
                             <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
                             <div class="psicologos-info">
@@ -265,7 +263,7 @@
 <!-- Fin Seccion Psicologos -->
 
 
-<div id="separacionTerapias" class="contenedorSeparacion">
+<div id="separacionTerapias">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
 </div>
 <!-- ======= Sección testimonios ======= -->
@@ -365,11 +363,11 @@
     </div>
 </section>
 <!-- ======= Final sección testimonios ======= -->
+
 <!-- ======= Separacion en Ola======= -->
-<div id="separacionTerapias2" class="contenedorSeparacion">
+<div id="separacionTerapias2">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
-
 
 <!-- ======= Seccion terapias======= -->
 <section id="terapias" class="categorias-terapias">
@@ -440,7 +438,7 @@
     </div>
 </section>
 
-<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
+<div id="separacion2">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
 </div>
 
