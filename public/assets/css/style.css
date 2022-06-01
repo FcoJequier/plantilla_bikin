@@ -2,12 +2,11 @@
 # Header
 --------------------------------------------------------------*/
 #header {
-    background: #3BA699;
+    background: rgba(71, 74, 240);;
     border-bottom: 2px solid #eceefe;
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
-    border-bottom: 2px solid #eceefe;
 }
 #header .logo {
     font-size: 20px;

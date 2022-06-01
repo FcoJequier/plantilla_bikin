@@ -47,9 +47,9 @@
                 <li><a class="nav-link" href="#">Inicio</a></li>
                 <li><a class="nav-link" href="#about">Quiénes somos</a></li>
                 <li><a class="nav-link" href="#portfolio">Psicólogos</a></li>
-                <li><a class="nav-link" href="#clients">Convenios</a></li>
-                <li><a class="nav-link" href="#services">Servicios</a></li>
+                <li><a class="nav-link" href="#services">Servicios y Terapias</a></li>
                 <li><a class="nav-link" href="#testimonials">Testimonios</a></li>
+                <li><a class="nav-link" href="#clients">Preguntas Frecuentes</a></li>
                 <li class="dropdown"><a href="#"><span>Cuenta</span> <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">Ingresar</a></li>
@@ -106,7 +106,7 @@
         </div>
     </div>
 </section>
-<!-- End Clients Section -->
+<!-- Fin Seccion Convenios -->
 
 <!-- ======= Separacion en Ola======= -->
 <div id="separacionQuienesSomos" class="contenedorSeparacion">
@@ -118,14 +118,9 @@
 <section id="quienesSomos" class="quienesSomos">
     <div class="container" data-aos="fade-up">
         <div class="tituloQuienesSomos">
-            <h1>¿Quiénes somos?</h1><br>
+            <h1>¿Quiénes Somos?</h1><br>
             <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. </p>
         </div>
-        <br>
-        <div class="subtituloQuienesSomos">
-            <h4>¿Qué diferencia a psicológos Temuco?</h4>
-        </div>
-        <br>
         <div class="row">
             <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
                 <div class="tarjeta">
