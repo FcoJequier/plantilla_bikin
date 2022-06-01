@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -64,18 +65,48 @@
 <!-- End Header -->
 
 
-<!-- ======= Imagen Hero ======= -->
+<!-- ======= Imagen Inicial ======= -->
 
-<section class="imagen-hero">
-<div class="contenedor flex">
-    <div>
-        <img src="../assets/img/terapia-psicologo.jpg" style="max-width: 900px">
-        <div></div>
+<section class="imagen-principal">
+<div>
+    <div class="row d-flex justify-content-around">
+        <div id="contenedortitulosImagenPrincipal" class="col d-flex flex-column justify-content-center my-auto">
+                <h1 class="d-flex justify-content-center font-weight-bold display-2">Psicólogos Temuco</h1>
+                <h2 class="d-flex justify-content-center">Texto de prueba para DevLEF SPA</h2>
+        </div>
+        <div id="contenedorImagenPrincipal" class="col d-flex flex-column justify-content-center my-auto">
+            <img id="imagenPrincipalRedondeada" src="assets/img/terapia-psicologo-modified.png" class="rounded-circle d-flex justify-content-center" alt="" data-aos="zoom-in" data-aos-delay="150">
+        </div>
     </div>
+
 </div>
 </section>
 
+<!-- ======= Inicio Seccion Convenios ======= -->
+<section id="convenios" class="convenios">
+    <div class="container" data-aos="zoom-in">
+        <div class="section-title">
+            <h1 class="convenios">Nuestros profesionales atienden con</h1>
+        </div>
 
+        <div class="row">
+
+            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                <img src="assets/img/isapres/atencion2.png" class="img-fluid" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                <img src="assets/img/isapres/atencion1.png" class="img-fluid" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                <img src="assets/img/isapres/atencion3.png" class="img-fluid" alt="">
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Clients Section -->
 
 <!-- ======= Separacion en Ola======= -->
 <div id="separacionQuienesSomos" class="contenedorSeparacion">
@@ -503,7 +534,7 @@
                     </p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
+                <div id="footerSecciones" class="col-lg-3 col-md-6 footer-links">
                     <h4>Secciones</h4>
                     <ul>
                         <li><i class="bx bx-chevron-right"></i> <a href="#about">Quiénes somos</a></li>

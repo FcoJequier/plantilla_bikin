@@ -7,6 +7,7 @@
     transition: all 0.5s;
     z-index: 997;
     padding: 15px 0;
+    border-bottom: 2px solid #eceefe;
 }
 #header .logo {
     font-size: 20px;
@@ -16,6 +17,7 @@
     font-weight: 600;
     letter-spacing: 1px;
     font-family: "Poppins", sans-serif;
+    text-decoration: none;
 }
 #header .logo a {
     color: #ffffff;
@@ -147,6 +149,12 @@
         left: -100%;
     }
 }
+.convenios img {
+    max-width: 60%;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    padding: 15px 0;
+}
 
 /**
 * Mobile Navigation
@@ -243,52 +251,63 @@
 /*--------------------------------------------------------------
 # Imagen Hero
 --------------------------------------------------------------*/
-.imagen-hero{
-    background-color: #fffae7;
+.imagen-principal{
+    background: rgba(59, 166, 153, 0.2);
 }
 .flex{
     display: flex;
-    flex-direction: row;
+}
+
+#imagenPrincipalRedondeada {
+    border-radius:50% 50% 0 0;
+    max-width: 90%;
+
+}
+
+#contenedortitulosImagenPrincipal{
+    font-family: 'Playfair Display', serif;
+    margin-left: 25px;
+    margin-top: 25px;
+    color: #2d2d2d;
+}
+
+#contenedortitulosImagenPrincipal h1{
+    font-weight: 400;
+}
+#contenedortitulosImagenPrincipal h2{
+    margin-top: 25px;
+    font-weight: 400;
+}
+
+#contenedorImagenPrincipal{
+    margin-top: 75px !important;
+    padding: 50px;
 }
 
 
 
 /*--------------------------------------------------------------
-# Separacion Ola
+# Convenios
 --------------------------------------------------------------*/
-
-.separacionOla {
-    height: 100px;
-    overflow: hidden;
-    fill: #484AF0;
-    margin-top: -2px;
+.convenios {
+    background: #ffffff;
+    padding: 15px 0;
+    text-align: center;
 }
-
-
-.contenedorSeparacion {
-    margin-top: 25px;
-    margin-bottom: 25px;
+hr {
+    background-color: #3B83AE;
 }
-
-#separacion2 {
-    transform: scaleX(-1);
+.convenios h1{
+    color: #3BA699;
 }
-
-#separacionQuienesSomos{
-    margin-bottom: -5px;
+.convenios img:hover {
+    transform: scale(1.15);
 }
-#separacionQuienesSomos2 {
-    margin-top: -5px;
+@media (max-width: 768px) {
+    .convenios img {
+        max-width: 40%;
+    }
 }
-
-#separacionTerapias {
-    margin-bottom: -5px;
-}
-
-#separacionTerapias2 {
-    margin-top: -5px;
-}
-
 /*----------------------------------------------
 #Quienes somos
 ------------------------------------------------ */
@@ -423,7 +442,9 @@
 
 
 
-/*<-------------------Terapias Psicologicas------------------>*/
+/*<-------------------------------------------
+            Terapias Psicologicas
+----------------------------------------------->*/
 
 #terapias{
     background: rgba(71, 74, 240);
@@ -478,8 +499,10 @@
     font-size: 20px;
 }
 
-/*--------Contenedor de imagen------*/
 
+/*--------------------------------------
+          Contenedor de imagen
+------------------------------------------*/
 body{
     min-height: 100vh;
     margin: 0;
@@ -759,7 +782,7 @@ body{
 
 #footer {
 
-    color: #444444;
+    color: #2d2d2d;
     font-size: 14px;
     background: #f1f3ff;
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -767,7 +790,7 @@ body{
 }
 #footer .footer-top { /*Contenedor de servicios , link y y demas*/
     padding: 60px 0 30px 0;
-    background: rgba(255, 187, 0, 0.2);
+    background: rgba(59, 166, 153, 0.3);
 
 }
 
@@ -781,19 +804,19 @@ body{
     padding: 2px 0 2px 0;
     line-height: 1;
     font-weight: 700;
-    color: #2d405f;
+    color: #2d2d2d;
 }
 #footer .footer-top .footer-contact p {
     font-size: 14px;
     line-height: 24px;
     margin-bottom: 0;
     font-family: "Krub", sans-serif;
-    color: #4e6fa4;
+    color: #2d2d2d;
 }
 #footer .footer-top h4 {
     font-size: 16px;
     font-weight: bold;
-    color: #2d405f;
+    color: #2d2d2d;
     position: relative;
     padding-bottom: 12px;
 }
@@ -807,7 +830,7 @@ body{
 }
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #6c7afa;
+    color: #2d2d2d;
     font-size: 18px;
     line-height: 1;
 }
@@ -820,14 +843,14 @@ body{
     padding-top: 0;
 }
 #footer .footer-top .footer-links ul a {
-    color: #777777;
+    color: #2d2d2d;
     transition: 0.3s;
     display: inline-block;
     line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
     text-decoration: none;
-    color: #3b4ef8;
+    color: #2d2d2d;
 }
 #footer .footer-newsletter {
     font-size: 15px;
@@ -835,7 +858,7 @@ body{
 #footer .footer-newsletter h4 {
     font-size: 16px;
     font-weight: bold;
-    color: #2d405f;
+    color: #2d2d2d;
     position: relative;
     padding-bottom: 12px;
 }
@@ -856,12 +879,12 @@ body{
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-    background: #0a22f6;
+    background: #2d2d2d;
 }
 #footer .credits {
     padding-top: 5px;
     font-size: 13px;
-    color: #444444;
+    color: #2d2d2d;
 }
 #footer .social-links a {
     font-size: 18px;
@@ -884,7 +907,7 @@ body{
     text-decoration: none;
 }
 .color-footer{
-    background-color:            #3b4ef8 ;
+    background-color: #3b4ef8 ;
     padding: -100px;
     display: flex;
     justify-content: center;
@@ -893,6 +916,46 @@ body{
 
 .color-margen{
     border-color:  #3B83AE  ;;
+}
+
+#footerSecciones {
+    margin-left: 120px;
+}
+
+/*--------------------------------------------------------------
+# Separacion Ola
+--------------------------------------------------------------*/
+
+.separacionOla {
+    height: 100px;
+    overflow: hidden;
+    fill: #484AF0;
+    margin-top: -2px;
+}
+
+
+.contenedorSeparacion {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#separacion2 {
+    transform: scaleX(-1);
+}
+
+#separacionQuienesSomos{
+    margin-bottom: -5px;
+}
+#separacionQuienesSomos2 {
+    margin-top: -5px;
+}
+
+#separacionTerapias {
+    margin-bottom: -5px;
+}
+
+#separacionTerapias2 {
+    margin-top: -5px;
 }
 
 /*----------------------------------------------
