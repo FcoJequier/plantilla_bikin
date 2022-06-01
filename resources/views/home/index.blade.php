@@ -87,12 +87,12 @@
 <section id="quienesSomos" class="quienesSomos">
     <div class="container" data-aos="fade-up">
         <div class="tituloQuienesSomos">
-            <h2>SOBRE NOSOTROS</h2><br>
+            <h1>¿Quiénes somos?</h1><br>
             <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. </p>
         </div>
         <br>
         <div class="subtituloQuienesSomos">
-            <h3>¿Qué nos diferencia de los demás??</h3>
+            <h4>¿Qué diferencia a psicológos Temuco?</h4>
         </div>
         <br>
         <div class="row">
@@ -245,63 +245,65 @@
 
 <!-- ======= Seccion terapias======= -->
 <section id="terapias" class="categorias-terapias" data-aos="fade-up" data-aos-delay="100">
-    <h1>Servicios y Terapias</h1>
-    <h5>Elige la terapia que necesites</h5>
+    <div class="tituloTerapias">
+        <h1>Tratamientos psicológicos</h1><br>
+        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga. </p><br>
+    </div>
     <div class="listado-terapias">
 
-    <a href="#" class="contenedor terapia1 tarjeta-testimonio">
+    <a href="#" class="contenedor terapia1 tarjeta-terapia">
         <div class="contenedor-item">
             <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
             <div class="titulo-terapia">Modalidad<br> Presencial</div>
             <div class="titulo-terapia btn">Terapia</div>
         </div>
     </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen00.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/autoestima.jpg">
+                <div class="titulo-terapia">Autoestima</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/angustia.jpg">
-                <div class="titulo-terapia">Angustia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/terapia-parejas.jpg">
+                <div class="titulo-terapia">Parejas</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/familia.jpg">
-                <div class="titulo-terapia">Terapia familiar</div>
+                <div class="titulo-terapia">Terapia <br>familiar</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-                <div class="titulo-terapia">Terapia</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/agresividad.jpg">
+                <div class="titulo-terapia">Agresividad</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/online.jpg">
                 <div class="titulo-terapia">Modalidad <br>Online</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen00.jpg">
                 <div class="titulo-terapia">Modalidad <br>Domiciliaria</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
                 <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/depresion.jpg">
                 <div class="titulo-terapia">Depresión</div>
             </div>
         </a>
-        <a href="#" class="contenedor tarjeta-testimonio">
+        <a href="#" class="contenedor tarjeta-terapia">
             <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/terapia-parejas.jpg">
-                <div class="titulo-terapia">Parejas</div>
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/angustia1.jpg">
+                <div class="titulo-terapia">Angustia</div>
             </div>
         </a>
 
