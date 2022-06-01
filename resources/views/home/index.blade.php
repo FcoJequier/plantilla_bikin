@@ -440,22 +440,27 @@
     </div>
 </section>
 <!-- ======= Final sección testimonios ======= -->
-<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
+<div id="separacion2" class="contenedorSeparacionTestimonios" >
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
+
 <!-- ======= Sección preguntas frecuentes ======= -->
-<section id="preguntasFrecuentes" class="preguntasFrecuentes">
+<section id="preguntasFrecuentes" class="fondo-seccion">
+    <div id="" class="preguntasFrecuentes">
+
     <h1 class="tituloPreguntas">Preguntas frecuentes</h1>
+
         <div class="categoriasPreguntas" id="categoriasPreguntas" >
             <div class="categoria activa" data-categoria="preguntas-generales">
                 <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M12 0c6.623 0 12 5.377 12 12s-5.377 12-12 12-12-5.377-12-12 5.377-12 12-12zm0 1c6.071 0 11 4.929 11 11s-4.929 11-11 11-11-4.929-11-11 4.929-11 11-11zm.053 17c.466 0 .844-.378.844-.845 0-.466-.378-.844-.844-.844-.466 0-.845.378-.845.844 0 .467.379.845.845.845zm.468-2.822h-.998c-.035-1.162.182-2.054.939-2.943.491-.57 1.607-1.479 1.945-2.058.722-1.229.077-3.177-2.271-3.177-1.439 0-2.615.877-2.928 2.507l-1.018-.102c.28-2.236 1.958-3.405 3.922-3.405 1.964 0 3.615 1.25 3.615 3.22 0 1.806-1.826 2.782-2.638 3.868-.422.563-.555 1.377-.568 2.09z"/></svg>
                 <p>Preguntas generales</p>
             </div>
+
             <div class="categoria " data-categoria="metodos-pago">
             <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M21.19 7h2.81v15h-21v-5h-2.81v-15h21v5zm1.81 1h-19v13h19v-13zm-9.5 1c3.036 0 5.5 2.464 5.5 5.5s-2.464 5.5-5.5 5.5-5.5-2.464-5.5-5.5 2.464-5.5 5.5-5.5zm0 1c2.484 0 4.5 2.016 4.5 4.5s-2.016 4.5-4.5 4.5-4.5-2.016-4.5-4.5 2.016-4.5 4.5-4.5zm.5 8h-1v-.804c-.767-.16-1.478-.689-1.478-1.704h1.022c0 .591.326.886.978.886.817 0 1.327-.915-.167-1.439-.768-.27-1.68-.676-1.68-1.693 0-.796.573-1.297 1.325-1.448v-.798h1v.806c.704.161 1.313.673 1.313 1.598h-1.018c0-.788-.727-.776-.815-.776-.55 0-.787.291-.787.622 0 .247.134.497.957.768 1.056.344 1.663.845 1.663 1.746 0 .651-.376 1.288-1.313 1.448v.788zm6.19-11v-4h-19v13h1.81v-9h17.19z"/></svg>
             <p>Métodos de pago</p>
             </div>
+
             <div class="categoria" data-categoria="seguridad">
             <svg  viewBox="0 0 24 24"xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M12 0c-3.371 2.866-5.484 3-9 3v11.535c0 4.603 3.203 5.804 9 9.465 5.797-3.661 9-4.862 9-9.465v-11.535c-3.516 0-5.629-.134-9-3zm0 1.292c2.942 2.31 5.12 2.655 8 2.701v10.542c0 3.891-2.638 4.943-8 8.284-5.375-3.35-8-4.414-8-8.284v-10.542c2.88-.046 5.058-.391 8-2.701zm5 7.739l-5.992 6.623-3.672-3.931.701-.683 3.008 3.184 5.227-5.878.728.685z"/></svg>
             <p>Seguridad</p>
@@ -463,9 +468,11 @@
 
             <div class="categoria" data-categoria="cuenta">
             <svg  viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M9.484 15.696l-.711-.696-2.552 2.607-1.539-1.452-.698.709 2.25 2.136 3.25-3.304zm0-5l-.711-.696-2.552 2.607-1.539-1.452-.698.709 2.25 2.136 3.25-3.304zm0-5l-.711-.696-2.552 2.607-1.539-1.452-.698.709 2.25 2.136 3.25-3.304zm10.516 11.304h-8v1h8v-1zm0-5h-8v1h8v-1zm0-5h-8v1h8v-1zm4-5h-24v20h24v-20zm-1 19h-22v-18h22v18z"/></svg>
-            <p>Cuenta</p></div>
+            <p>Cuenta</p>
             </div>
+
         </div>
+
     <div class="preguntas" >
         <!--Preguntas generales-->
         <div class="contenedor-preguntas activo" data-categoria="preguntas-generales">
@@ -507,12 +514,12 @@
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
-
     </div>
     <script src="assets/js/preguntasFrecuentes/categorias.js"></script>
     <script src="assets/js/preguntasFrecuentes/preguntas.js"></script>
-</section>
 
+</div>
+</section>
 <!-- ======= Footer ======= -->
 
 <footer id="footer">
