@@ -268,81 +268,6 @@
 <div id="separacionTerapias" class="contenedorSeparacion">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
 </div>
-
-<!-- ======= Seccion terapias======= -->
-<section id="terapias" class="categorias-terapias">
-    <div class="tituloTerapias">
-        <h1>Tratamientos psicológicos</h1><br>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga. </p><br>
-    </div>
-    <div class="listado-terapias">
-
-    <a href="#" class="contenedor terapia1 tarjeta-terapia">
-        <div class="contenedor-item">
-            <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen1.jpg">
-            <div class="titulo-terapia">Modalidad<br> Presencial</div>
-            <div class="titulo-terapia btn">Terapia</div>
-        </div>
-    </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/autoestima.jpg">
-                <div class="titulo-terapia">Autoestima</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/terapia-parejas.jpg">
-                <div class="titulo-terapia">Parejas</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/familia.jpg">
-                <div class="titulo-terapia">Terapia <br>familiar</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/agresividad.jpg">
-                <div class="titulo-terapia">Agresividad</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/online.jpg">
-                <div class="titulo-terapia">Modalidad <br>Online</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/imagen00.jpg">
-                <div class="titulo-terapia">Modalidad <br>Domiciliaria</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/depresion.jpg">
-                <div class="titulo-terapia">Depresión</div>
-            </div>
-        </a>
-        <a href="#" class="contenedor tarjeta-terapia">
-            <div class="contenedor-item">
-                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/angustia1.jpg">
-                <div class="titulo-terapia">Angustia</div>
-            </div>
-        </a>
-
-        <!-- ---------------------------- -->
-
-    </div>
-</section>
-
-<!-- ======= Separacion en Ola======= -->
-<div id="separacionTerapias2" class="contenedorSeparacion">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
-</div>
-
 <!-- ======= Sección testimonios ======= -->
 <section id="testimonios" class="testimonios color-testimonio ">
     <div class="container" data-aos="fade-up">
@@ -440,11 +365,86 @@
     </div>
 </section>
 <!-- ======= Final sección testimonios ======= -->
-<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
-    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+<!-- ======= Separacion en Ola======= -->
+<div id="separacionTerapias2" class="contenedorSeparacion">
     <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-16.59,146.54 C106.43,165.29 451.80,-22.20 505.98,139.64 L500.00,0.00 L0.00,0.00 Z" style="stroke: none;"></path></svg></div>
 </div>
+
+
+<!-- ======= Seccion terapias======= -->
+<section id="terapias" class="categorias-terapias">
+    <div class="tituloTerapias">
+        <h1>Tratamientos psicológicos</h1><br>
+        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga. </p><br>
+    </div>
+    <div class="listado-terapias">
+
+    <a href="#" class="contenedorImgTerapia terapia1 tarjeta-terapia">
+        <div class="contenedor-item">
+            <img class="contenedor-img imagen-terapiaGrande" src="../assets/img/terapias-psicologicas/service-online-home.jpg">
+            <div class="titulo-terapia">Modalidad<br> Presencial</div>
+            <div class="titulo-terapia btn">Terapia</div>
+        </div>
+    </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/psicologiaInfantil_home.png">
+                <div class="titulo-terapia">Psicología infantil</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/terapiaPareja_home.png">
+                <div class="titulo-terapia">Parejas</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/depresion_home.png">
+                <div class="titulo-terapia">Terapia <br>Depresión</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/ansiedad_home.png">
+                <div class="titulo-terapia">Ansiedad</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/service-online-home.jpg">
+                <div class="titulo-terapia">Modalidad <br>Online</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/service-online-home.jpg">
+                <div class="titulo-terapia">Modalidad <br>Domiciliaria</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/cognitivoComportamental_home.png">
+                <div class="titulo-terapia">Terapia</div>
+            </div>
+        </a>
+        <a href="#" class="contenedorImgTerapia tarjeta-terapia">
+            <div class="contenedor-item">
+                <img class="contenedor-img imagen-terapia" src="../assets/img/terapias-psicologicas/autismo_home.png">
+                <div class="titulo-terapia">Autismo</div>
+            </div>
+        </a>
+
+        <!-- ---------------------------- -->
+
+    </div>
+</section>
+
+<div id="separacion2" class="contenedorSeparacion" data-aos="fade-zoom-in">
+    <div class="separacionOla"><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-12.08,-12.32 C147.06,160.35 309.59,-45.89 521.22,12.32 L500.00,150.00 L0.00,150.00 Z" style="stroke: none;"></path></svg></div>
+</div>
 <!-- ======= Sección preguntas frecuentes ======= -->
+
 <section id="preguntasFrecuentes" class="preguntasFrecuentes">
     <h1 class="tituloPreguntas">Preguntas frecuentes</h1>
         <div class="categoriasPreguntas" id="categoriasPreguntas" >
@@ -507,7 +507,6 @@
                 <p class="respuesta"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias deserunt, doloremque eligendi esse, fuga id illum in ipsam m</p>
             </div>
         </div>
-
     </div>
     <script src="assets/js/preguntasFrecuentes/categorias.js"></script>
     <script src="assets/js/preguntasFrecuentes/preguntas.js"></script>
