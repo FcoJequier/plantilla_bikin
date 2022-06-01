@@ -244,7 +244,7 @@
 </div>
 
 <!-- ======= Seccion terapias======= -->
-<section id="terapias" class="categorias-terapias" data-aos="fade-up" data-aos-delay="100">
+<section id="terapias" class="categorias-terapias">
     <div class="tituloTerapias">
         <h1>Tratamientos psicológicos</h1><br>
         <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga. </p><br>
