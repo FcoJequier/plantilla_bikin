@@ -38,9 +38,9 @@
 <body>
 
 <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center justify-content-between">
+    <div id="headerNavbar" class="d-flex justify-content-between">
 
-        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid">Psicólogos Temuco</a></h1>
+        <h1 class="logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="" class="img-fluid"> Psicólogos Temuco</a></h1>
 
         <nav id="navbar" class="navbar">
             <ul>
